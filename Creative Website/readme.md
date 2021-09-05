@@ -10,7 +10,7 @@ The following were the things that I did in this project:
       
 2.Integrating all the elements in the homepage: The homepage was designed by one teammate while the other teammate designed  the search bar. The former also created the contacts, videos,about webpages along with scrolling photos, latest news bulletin and the useful links. For the sake of uploading the project in github(videos are large>25 MB), I have not included the videos webpage    of my teammate(he had downloaded them), but have created another webpage which contains youtube videos(most of these videos are those which he had downloaded). An internet connection is required to run this webpage. 
      
-      I integrated all the farmer registration form, the news bulletin,useful inks section and the above said webpages into the homepage and tried my best to position the elements in a neat and concise fashion. However there is a catch. The website was designed for a laptop screen, thus there may be a slight mismatch when this project is run on another device. I also added a clock in the homepage while the other teammate added a date field.
+I integrated all the farmer registration form, the news bulletin,useful inks section and the above said webpages into the homepage and tried my best to position the elements in a neat and concise fashion. However there is a catch. The website was designed for a laptop screen, thus there may be a slight mismatch when this project is run on another device. I also added a clock in the homepage while the other teammate added a date field.
       
 3. I also prepared a python notebook(Untitled.ipynb) which processed the data that was stored in the database(this data was downloaded as a .csv file(project.csv)).
       
