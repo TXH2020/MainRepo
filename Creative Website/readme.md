@@ -1,6 +1,6 @@
 This is a website that a group of three(of which I was  a part) in their 1st year of engg. designed for their project. The name of this website is FarmEasy, designed to benefit farmers.
 
-The details of this website can be found from a link to our project ppt which has been given below. 
+The details of this website can be found from a link to our project ppt which has been given below. You can get a gist of this project by downloading the project.html file and opening it.
 
 Requirements: Xampp. Place this folder in the htdocs folder of xampp folder(after installation). After starting xampp, go to Localhost phpmyadmin in the web browser(internet required) and then create a database with the fields given in 'project.csv', type as varchar(255). (Note:write Aadhar instead of email field). After the database creation, the website is ready to go. Type localhost/<your directory name which is inside htdocs>/proj.php in the web browser. This will run the project.
 
