@@ -1,11 +1,7 @@
-These are my personal projects. Click on a folder to view the contents
+These are my personal projects. Click on a folder to view its contents
 
-I have done various interesting things like:
+Contents Of This Directory:
 
-1.Build an Air Quality Prediction system
+1.Air Quality Prediction system
 
 2.Connect python to SQL
-
-3.Run android sdk 21 app in mobile with android sdk 19 by editing Android manifests.xml file
-
-4.Recognize Flowers With TensorFlow Lite on Android
