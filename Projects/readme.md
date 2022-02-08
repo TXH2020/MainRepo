@@ -5,3 +5,5 @@ Contents Of This Directory:
 1.Air Quality Prediction system
 
 2.Connect python to SQL
+
+3.Score prediction system
