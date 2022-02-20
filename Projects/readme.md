@@ -1,4 +1,4 @@
-These are my personal projects. Click on a folder to view its contents
+These are my projects. Click on a folder to view its contents
 
 Contents Of This Directory:
 
@@ -7,3 +7,5 @@ Contents Of This Directory:
 2.Connect python to SQL
 
 3.Score prediction system
+
+4.Data Structure Project
