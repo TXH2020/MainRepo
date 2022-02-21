@@ -8,12 +8,12 @@ A list of all my computer science experiments. I may have done more but I can re
 6.In 10th, I have run various java programs; I have run programs related to time zones,country codes,writing and reading files,opening web browsers,playing audio,opening a file in the computer,taking screenshots, creating a visual clock and a normal clock.
 7.I installed MySql,django; I have my own website;written blogs
 8. I have seen NPTEL Computer Architecture(downloaded Simple RISC,ARM,X86 emulators),DBMS,Java Videos. Enrolled in various other NPTEL courses
-9.I had enrolled in NASA EODashboard Hackathon
+9.I had enrolled in NASA EODashboard Hackathon,NVIDIA GTC 2021.
 10.I learnt C++,HTML in 11th and 12th
 11.Scoured the web for many free CS ebooks
 12.I have tried Earth Data Science.
 13.Learnt to use Colab,Jupyter,PyCharm,Eclipse
-14.I have enrolled in HackerEarth, OpenForge,Skillshop,Google Coding Compertitions
+14.I have enrolled in HackerEarth, OpenForge,Skillshop,Google Coding Competitions
 15.I undertook Google ML CrashCourse
 16.Purchased Arduino Uno and installed Arduino IDE.
 17.Came across various useful websites like GeeksForGeeks, Tutorialspoint, javatpoint,baeldung;watched videos related to AI and Cybersecurity
