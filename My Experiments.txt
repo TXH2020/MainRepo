@@ -19,3 +19,5 @@ A list of all my computer science experiments. I may have done more but I can re
 17.Came across various useful websites like GeeksForGeeks, Tutorialspoint, javatpoint,baeldung;watched videos related to AI and Cybersecurity
 18.Installed Git and enrolled in Github; have my own repository
 19.Enrolled in AFWERX,EU Data cube
+20.Registered in Amazon DeepRacer Challenge; downloaded DataCamp App, HackerX ehtical hacking app
+21.Read research hypothesis relating to digital signal processing for satellite signals;looked at how to construct antennas and intercept TV signals. 
