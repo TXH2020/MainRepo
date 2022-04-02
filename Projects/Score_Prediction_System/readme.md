@@ -9,3 +9,5 @@ The web app has been deployed on PythonAnywhere.
 [Click on this link to access the web app](http://tejah.pythonanywhere.com/)
 
 [Click on this link to find the code for the Django web app](https://github.com/Interested-Guy/Score_Prediction_System/)
+
+I had initially made a Colab notebook for The Sparks Foundation Internship based on the same topic as part of The Data Science Tasks. I built this web app so that it looks cooler compared to the Python notebook. The notebook is available in this directory. 
