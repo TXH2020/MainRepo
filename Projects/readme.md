@@ -11,3 +11,5 @@ Contents Of This Directory:
 4.Shopify Challenge
 
 5.Data Structure Project
+
+6.Counting Inversions Using MergeSort.
