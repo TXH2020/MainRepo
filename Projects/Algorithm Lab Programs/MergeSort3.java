@@ -4,7 +4,6 @@
    10000,50000
    In this program, I obtain comma-seperated values, which can then be used for making a 
    plot comparing the three types of sorting.*/
-package programs;
 import java.lang.reflect.Method;
 class MergeSort3{
         public void outerFunction(Object object, Method method, int[] arr)throws Exception{
