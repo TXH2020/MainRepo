@@ -1,8 +1,7 @@
 /*This is a java program which I developed in response to a question in my Algoritms laboratory which was as follows:
 Three users in an online music portal listen to a playlist of 8 songs that are numbered from 1 to 8 in a random order. 
-Each user needs to be recommended to another user playlist’s order that has minimum number of inversions. Suggest which algorithm can be chosen for it.
+Each user needs to be recommended to another user playlistâ€™s order that has minimum number of inversions. Suggest which algorithm can be chosen for it.
 	Here I have set 9 users instead of 3. We enter the user's number and the user no. satisfying the above requirements will be returned.*/ 
-package programs;
 import java.util.*;
 class MergeSort1{
 	int keep_count=0;
