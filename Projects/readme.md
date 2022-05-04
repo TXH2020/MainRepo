@@ -4,12 +4,14 @@ Contents Of This Directory:
 
 1.Air Quality Prediction system
 
-2.Connect python to SQL
+2.Algorithm Lab Programs
 
-3.Score prediction system
+3.Connect python to SQL
 
-4.Shopify Challenge
+4.Score prediction system
 
-5.Data Structure Project
+5.Shopify Challenge
 
-6.Counting Inversions Using MergeSort(MergeSort1.java).
+6.Data Structure Project
+
+7.Counting Inversions Using MergeSort(MergeSort1.java).
