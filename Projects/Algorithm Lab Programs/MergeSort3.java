@@ -3,7 +3,8 @@
  * for arrays having following sizes:100,200,300,500,1000,2000,3000,5000,6000,8000,
    10000,50000
    In this program, I obtain comma-seperated values, which can then be used for making a 
-   plot comparing the three types of sorting.*/
+   plot comparing the three types of sorting.
+   The plot has been included in the directory.*/
 import java.lang.reflect.Method;
 class MergeSort3{
         public void outerFunction(Object object, Method method, int[] arr)throws Exception{
