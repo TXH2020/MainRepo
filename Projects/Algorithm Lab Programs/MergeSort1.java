@@ -24,9 +24,9 @@ class MergeSort1{
                         else{
                                 a[k]=c[j];
                                 j++;
-                                count++;}
+                                count=count+b.length-i;}
                 k++;}
-                keep_count=count;
+                keep_count=keep_count+count;
                 if(i==b.length){
                         for(;j<c.length;j++,k++)
                         a[k]=c[j];}
