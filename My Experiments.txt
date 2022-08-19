@@ -1,5 +1,5 @@
 My Experiments:
-A list of all my computer science experiments. I may have done more but I can remember these many:
+A list of all my computer science experiments. I may have done more but I can only remember these many:
 1. Run Tensorflow Flower Classification Android App:With help of Google developer tutorial
 2. Run android app with sdk 21 on old phone with sdk 19.
 3.Create a hello world flask app
@@ -21,3 +21,13 @@ A list of all my computer science experiments. I may have done more but I can re
 19.Enrolled in AFWERX,EU Data cube
 20.Registered in Amazon DeepRacer Challenge; downloaded DataCamp App, HackerX ehtical hacking app
 21.Read research hypothesis relating to digital signal processing for satellite signals;looked at how to construct antennas and intercept TV signals. 
+22.Have attempted Kubernetes Tutorial on K8 website
+23.Have installed Apache Kafka attempted Apache kafka quickstart.
+24. Installed an ubuntu environment on Virtual Box for Kafka
+25. Learnt to create client server apps on Java using Head First Java Book
+26. Installed Heroku CLI. learnt to deploy app from local machine to heroku cloud
+27. Installed XAMPP. Learnt about FileZilla, Mercury, Tomcat from youtube
+28. Installed ngrok and expose XAMPP Apache port to make PHP app available on the internet.
+29. Installed PostegreSql and successfully launched The MovieGeeks Website as part of the book Practical Recommender Systems
+30.Installed VisualStudioCode
+31. Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading 
