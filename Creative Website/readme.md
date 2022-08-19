@@ -1,3 +1,5 @@
+Updated:We can use ngrok to make our localhost app available in the internet.
+
 This is a website that a group of three(of which I was  a part) in their 1st year of engg. designed for their project. The name of this website is FarmEasy, designed to benefit farmers.
 
 The details of this website can be found from a link to our project ppt which has been given below. You can get a gist of this project by downloading the project.html file and opening it.
