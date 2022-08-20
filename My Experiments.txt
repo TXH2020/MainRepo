@@ -31,3 +31,5 @@ A list of all my computer science experiments. I may have done more but I can on
 29. Installed PostegreSql and successfully launched The MovieGeeks Website as part of the book Practical Recommender Systems
 30.Installed VisualStudioCode
 31. Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading 
+32. Installed Wireshark
+33. Installed Kali Linux on Virtualbox
