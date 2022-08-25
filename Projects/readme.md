@@ -6,11 +6,13 @@ Contents Of This Directory:
 
 2.Algorithm Lab Programs
 
-3.Connect python to SQL
+3.Android Studio Projects
 
-4.Score prediction system
+4.Connect python to SQL
 
-5.Shopify Challenge
+5.Score prediction system
 
-6.Data Structure Project
+6.Shopify Challenge
+
+7.Data Structure Project
 
