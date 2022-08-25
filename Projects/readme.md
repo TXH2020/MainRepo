@@ -14,4 +14,3 @@ Contents Of This Directory:
 
 6.Data Structure Project
 
-7.Counting Inversions Using MergeSort(MergeSort1.java).
