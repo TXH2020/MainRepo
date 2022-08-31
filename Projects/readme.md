@@ -1,6 +1,4 @@
-These are my projects. Click on a folder to view its contents
-
-Contents Of This Directory:
+These are my projects.
 
 1.Air Quality Prediction system
 
