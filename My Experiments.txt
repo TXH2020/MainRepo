@@ -33,3 +33,9 @@ A list of all my computer science experiments. I may have done more but I can on
 31. Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading 
 32. Installed Wireshark
 33. Installed Kali Linux on Virtualbox
+34. Installed ESP8266 flashing tool to flash ESP8266 Wifi Module
+35. Learnt to use AT Command Set with ESP8266 Wifi Module
+36. Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
+37. Set the JAVA PATH and PYTHON PATH in System environment variables in windows. Allows Java and Python to be accessible from terminal
+38. Attempted To Install Openstack in Ubuntu Virtual Machine. Took Help from OpenstackInAction book and various web resources
+    Successfully installed cinder,keystone,placement,neutron,nova softwares.
