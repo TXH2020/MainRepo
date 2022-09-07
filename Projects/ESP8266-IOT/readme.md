@@ -7,3 +7,5 @@ other 5V power supply module for the same purpose.
 
 Credits to: Arduino tutorial from Spoken Tutorial.org. They performed the connection using ESP8266 01 Wifi Module. 
 However I have used the ESP8266(NodeMCU) for this purpose because the Wifi Module is problematic.
+
+The feed.csv file basically consists of the sensor readings exported from the Web Dashboard in the form of a CSV file.
