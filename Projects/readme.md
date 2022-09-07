@@ -6,15 +6,17 @@ These are my projects.
 
 3.Android Studio Projects
 
-4.Connect python to SQL
+4.ESP8266 IOT project
 
-5.Score prediction system
+5.Connect python to SQL
 
-6.Shopify Challenge
+6.Score prediction system
 
-7.Data Structure Project
+7.Shopify Challenge
 
-8.Tango with django website:
+8.Data Structure Project
+
+9.Tango with django website:
 
 Link:https://roger123.pythonanywhere.com/
 
