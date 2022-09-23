@@ -1,41 +1,22 @@
 My Experiments:
 A list of all my computer science experiments. I may have done more but I can only remember these many:
-1. Run Tensorflow Flower Classification Android App:With help of Google developer tutorial
-2. Run android app with sdk 21 on old phone with sdk 19.
-3.Create a hello world flask app
-4.Deploy a simple web app on python anywhere;using Monetizing Machine Learning Book
-5.Run a java application on windows like a normal desktop application
-6.In 10th, I have run various java programs; I have run programs related to time zones,country codes,writing and reading files,opening web browsers,playing audio,opening a file in the computer,taking screenshots, creating a visual clock and a normal clock.
-7.I installed MySql,django; I have my own website;written blogs
-8. I have seen NPTEL Computer Architecture(downloaded Simple RISC,ARM,X86 emulators),DBMS,Java Videos. Enrolled in various other NPTEL courses
-9.I had enrolled in NASA EODashboard Hackathon,NVIDIA GTC 2021.
-10.I learnt C++,HTML in 11th and 12th
-11.Scoured the web for many free CS ebooks
-12.I have tried Earth Data Science.
-13.Learnt to use Colab,Jupyter,PyCharm,Eclipse
-14.I have enrolled in HackerEarth, OpenForge,Skillshop,Google Coding Competitions
-15.I undertook Google ML CrashCourse
-16.Purchased Arduino Uno and installed Arduino IDE.
-17.Came across various useful websites like GeeksForGeeks, Tutorialspoint, javatpoint,baeldung;watched videos related to AI and Cybersecurity
-18.Installed Git and enrolled in Github; have my own repository
-19.Enrolled in AFWERX,EU Data cube
-20.Registered in Amazon DeepRacer Challenge; downloaded DataCamp App, HackerX ehtical hacking app
-21.Read research hypothesis relating to digital signal processing for satellite signals;looked at how to construct antennas and intercept TV signals. 
-22.Have attempted Kubernetes Tutorial on K8 website
-23.Have installed Apache Kafka attempted Apache kafka quickstart.
-24. Installed an ubuntu environment on Virtual Box for Kafka
-25. Learnt to create client server apps on Java using Head First Java Book
-26. Installed Heroku CLI. learnt to deploy app from local machine to heroku cloud
-27. Installed XAMPP. Learnt about FileZilla, Mercury, Tomcat from youtube
-28. Installed ngrok and expose XAMPP Apache port to make PHP app available on the internet.
-29. Installed PostegreSql and successfully launched The MovieGeeks Website as part of the book Practical Recommender Systems
-30.Installed VisualStudioCode
-31. Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading 
-32. Installed Wireshark
-33. Installed Kali Linux on Virtualbox
-34. Installed ESP8266 flashing tool to flash ESP8266 Wifi Module
-35. Learnt to use AT Command Set with ESP8266 Wifi Module
-36. Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
-37. Set the JAVA PATH and PYTHON PATH in System environment variables in windows. Allows Java and Python to be accessible from terminal
-38. Attempted To Install Openstack in Ubuntu Virtual Machine. Took Help from OpenstackInAction book and various web resources
-    Successfully installed cinder,keystone,placement,neutron,nova softwares.
+1.Ran Tensorflow Flower Classification Android App:With help of Google developer tutorial
+2.Created a hello world flask app
+3.Ran a java application as a jar file using javaw.
+4.Attempted Earth Data Science.
+5.Undertook Google ML CrashCourse
+6.Attempted Kubernetes Tutorial on K8 website
+7.Installed Virtualbox. Have Ubuntu, Kali Linux and Openwrt virtual machines. Successfully created a virtual router using Openwrt virtual machine;connected host vachine to the virtual machine via netowrk. Used Putty to verify connection.
+8.Installed Apache Kafka on Kali Linux;attempted Apache kafka quickstart.
+9.Learnt socket progrmaming in both java and python
+10.Installed Heroku CLI. learnt to deploy app from local machine to heroku cloud
+11.Installed XAMPP. Learnt about FileZilla, Mercury, Tomcat. Used Mysql, Apache server for my project.
+12.Installed ngrok and expose XAMPP Apache port to make PHP app available on the internet.
+13.Installed PostegreSql and successfully launched The MovieGeeks Website as part of the book Practical Recommender Systems
+14.Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading. Also learnt to use esp8266.
+15.Installed Wireshark and performed packet sniffing
+16.Learnt to use AT Command Set with ESP8266 Wifi Module
+17.Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
+18.Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
+19.Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
+20.Exposed localserver to the internet by using ssh with local.run
