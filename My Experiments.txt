@@ -18,6 +18,7 @@ virtual machine;connected host vachine to the virtual machine via netowrk. Used 
 15.Installed Wireshark and performed packet sniffing
 16.Learnt to use AT Command Set with ESP8266 Wifi Module
 17.Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
-18.Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
+18.Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed
+cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 19.Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
 20.Exposed localserver to the internet by using ssh with local.run
