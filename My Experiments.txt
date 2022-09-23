@@ -6,7 +6,8 @@ A list of all my computer science experiments. I may have done more but I can on
 4.Attempted Earth Data Science.
 5.Undertook Google ML CrashCourse
 6.Attempted Kubernetes Tutorial on K8 website
-7.Installed Virtualbox. Have Ubuntu, Kali Linux and Openwrt virtual machines. Successfully created a virtual router using Openwrt virtual machine;connected host vachine to the virtual machine via netowrk. Used Putty to verify connection.
+7.Installed Virtualbox. Have Ubuntu, Kali Linux and Openwrt virtual machines. Successfully created a virtual router using Openwrt
+virtual machine;connected host vachine to the virtual machine via netowrk. Used Putty to verify connection.
 8.Installed Apache Kafka on Kali Linux;attempted Apache kafka quickstart.
 9.Learnt socket progrmaming in both java and python
 10.Installed Heroku CLI. learnt to deploy app from local machine to heroku cloud
