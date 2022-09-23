@@ -21,3 +21,4 @@ virtual machine;connected host vachine to the virtual machine via netowrk. Used 
 cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 19.Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
 20.Exposed localserver to the internet by using ssh with local.run
+21.Exposed localserver to the internet using localtunnel service.
