@@ -1,11 +1,11 @@
-My Extracurricular activities in Computer Science:
+Miscellaneous activities in Computer Science:
 1. Ran Tensorflow Flower Classification Android App:With help of Google developer tutorial
 2. Created a hello world flask app
 3. Ran a java application as a jar file using javaw.
 4. Attempted Earth Data Science.
 5. Undertook Google ML CrashCourse
 6. Undertook Kubernetes Tutorial on K8 website
-7. Installed Virtualbox. Have Ubuntu, Kali Linux and Openwrt virtual machines. Successfully created a virtual router using Openwrt virtual machine;connected host vachine to the virtual machine via netowrk. Used Putty to verify connection.
+7. Installed Virtualbox. Have Ubuntu, Kali Linux and Openwrt virtual machines. Successfully created a virtual router using Openwrt virtual machine;connected host machine to the virtual machine via virtual network. Used Putty to verify connection.
 8. Installed Apache Kafka on Kali Linux;attempted Apache kafka quickstart.
 9. Learnt socket progrmaming in both java and python
 10. Installed Heroku CLI. learnt to deploy app from local machine to heroku cloud
