@@ -1,4 +1,4 @@
-The milestones I have achieved due to my interest in Computer Science:
+My Extracurricular activities in Computer Science:
 1. Ran Tensorflow Flower Classification Android App:With help of Google developer tutorial
 2. Created a hello world flask app
 3. Ran a java application as a jar file using javaw.
