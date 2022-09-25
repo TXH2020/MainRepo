@@ -8,6 +8,6 @@ These are my projects.
 6. Score prediction system
 7. Shopify Challenge
 8. Data Structure Project
-9. Tango with django website: [Link:](https://roger123.pythonanywhere.com/)
+9. Tango with django website: [Website:](https://roger123.pythonanywhere.com/)
                               [Repository:](https://github.com/Interested-Guy/tango_with_django_th)
 10. PHP Project: Form+Clock+Search+database+links+photos+videos
