@@ -6,4 +6,4 @@ This program makes use of machine learning code and data analysis. Users need no
 
 I made an experiment using selenium to automate the process of filling the form to obtain the air qualityd ata in Colab(Selenium.ipynb).
 
-[Link to Air quality data:]{https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/data}
+[Link to Air quality data:](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/data)
