@@ -4,4 +4,4 @@ Imagine if we could tell a singly linked list to be a doubly linked list; how ca
 
 We use the XOR Operation to implement our traversal in both directions. How exactly? Please refer the research paper which I have placed in this folder(276-E1045.pdf). I implemented the research paper to build my project.
 
-Copy the code into a C compiler and run the program.
+Copy the code into a C compiler(xor-ll.txt) and run the program.
