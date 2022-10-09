@@ -10,7 +10,8 @@ connected host machine to the virtual machine via virtual network. Used Putty to
 8. Performed Arduino LED Blinking(RGB), buzzer, DHT Sensor Reading. Also learnt to use esp8266.
 9. Installed Wireshark and performed packet sniffing
 10. Used AT Command Set with ESP8266 Wifi Module;Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
-11. Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
+11. Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed cinder,
+keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 12. Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
 13. Exposed localserver to the internet by using ssh with ngrok,localhost.run and localtunnel service.
 14. Used ngrok AuthToken on Google Colab to expose flask server to internet.
