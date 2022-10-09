@@ -1,5 +1,7 @@
 This is a project to send sensor readings to a Thingspeak Web Dashboard for visualization. 
 
+The file dht11.txt contains the code to be loaded onto the ESP8266 microcontroller.
+
 The images 5845 and 5851 display the temperature and humidity values recorded by a DHT11 sensor interfaced with an ESP8266.
 
 The image 5254 shows the live setup of the hardware. Note that I used Arduino Uno only to provide 5V to DHT11. We can use any 
@@ -9,3 +11,5 @@ Credits to: Arduino tutorial from Spoken Tutorial.org. They performed the connec
 However I have used the ESP8266(NodeMCU) for this purpose because the Wifi Module is problematic.
 
 The feed.csv file basically consists of the sensor readings exported from the Web Dashboard in the form of a CSV file.
+
+The above program makes use of MQTT server to stream data to the Thingspeak platform. I have included a colab file that demonstrates the Apache Kafka messaging server.
