@@ -18,5 +18,5 @@ Miscellaneous activities in Computer Science:
 17. Flashed the ESP8266 Wifi Module using esptools.py from pycharm terminal
 18. Successfully installed Microstack(Openstack) cloud software in Ubuntu Virtual Machine. Successfully installed cinder,keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 19. Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
-20. Exposed localserver to the internet by using ssh with local.run and localtunnel service.
+20. Exposed localserver to the internet by using ssh with localhost.run and localtunnel service.
 21. Used ngrok AuthToken on Google Colab
