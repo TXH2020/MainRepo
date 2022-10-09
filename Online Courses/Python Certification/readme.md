@@ -11,4 +11,6 @@ This course provides weekly assignments of moderate level which have to be compl
 Besides, we also had a programming exam and an offline(Computer based) exam. All these ensure that a serious learner always gets the best 
 knowledge and learning experience both theoretically and practically.
 
-I have provided few programs which were a part of this course and a gist of the course in the form of a html file(html file to be downloaded with folder 'Programming, Data Structures and Algorithms using python'(provided in this directory). Then open the file to view the contents.)
+The link below is a copy of the entire course, including my answers to all the assignments.
+
+[Link](https://farmeasy123.000webhostapp.com/Programming,%20Data%20Structures%20And%20Algorithms%20Using%20Python%20-%20-%20Announcements.html)
