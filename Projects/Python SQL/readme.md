@@ -13,5 +13,5 @@ the database does not exist! I included it so that one can understand how to con
 
 We need to just run the colab file. The python code automatically fetches the data.
 
-The other colab file Shopify.ipynb is another file containing SQL commands that I developed while attempting to get into the 
+The other colab file Shopify.ipynb contains SQL commands that I developed while attempting to get into the 
 Shopify Internship.
