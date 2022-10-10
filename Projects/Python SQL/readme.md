@@ -12,3 +12,6 @@ had to delete the database in order to avoid expenses since Azure SQL database i
 the database does not exist! I included it so that one can understand how to connect to a cloud database using python.
 
 We need to just run the colab file. The python code automatically fetches the data.
+
+The other colab file Shopify.ipynb is another file containing SQL commands that I developed while attempting to get into the 
+Shopify Internship.
