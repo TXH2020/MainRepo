@@ -1,9 +1,13 @@
-This program predicts Air Quality Index for three days based on the air pollution data from the Central Pollution Control board website of India(....36.xlsx). We then check the quality of predictions by comparing it with the actual data(....501.xlsx).
+About an year ago I had made an attempt to predict Air Quality Index for few days based on the air pollution data from the Central Pollution Control board website of India(....36.xlsx). I then checked the quality of predictions by comparing it with the actual data(....501.xlsx).
 
-This program makes use of machine learning code and data analysis. Users need not have the data with them. The code automatically extracts data from the github repo.  
+I was just in my first year back then and I used a Linear Regression model to fit a straight line for the air pollution data.
 
-(Note:This code has been tested on Google Colab. Request users to run program in Colab for best experience.)
+Now in my third year, I had a lot of programming and machine learning knowledge on my side. So I decided to revisit my project and give it a makeover.
 
-I made an experiment using selenium to automate the process of filling the form to obtain the air quality data in Colab(Selenium.ipynb).
+The old project(Air Quality.ipynb) just used the data in my GitHub repo(the above mentioned files) and could process just those files. Morover there was only 10 days' worth of data in the ....36.xlsx file. The new project(Air Quality New) automatically fetches a year worth of data using the Selenium Automation Package. Morover it can process any excel file which has the six parameters(PM2.5,PM10,NO2,SO2,CO,Ozone).   
 
-[Link to Air quality data:](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/data)
+The old project used a Linear Regression model whose predictions were not so accurate(due to the straight line fit). The new project uses a LSTM model which provides a very good fit to the training data and also gives much better predictions.
+
+Special thanks to BTM Layout pollution control board whose data I have used for the project. 
+
+[Link to Air quality data website:](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/data)
