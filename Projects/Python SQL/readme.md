@@ -7,7 +7,7 @@ used mysql-python-connector for the database connectivity.
 For NoSQL I have created a MongoDb server on colab and used an existing csv file(listings.csv) to create a database and demonstrated the document approach 
 of the MongoDB. I used pymongo connector for the database connectivity.
 
-I also included Apache Cassandra as another example for NoSQL database.
+I also included Apache Cassandra which is not only a popular NoSQL database but a very famous distributed database as well. I have used cassandra-python package to establish connectivity to the database.
 
 I had created an Azure DB prior to the execution of the code for Cloud DB connectivity using odbc(open database connectivity) connector. However I 
 had to delete the database in order to avoid expenses since Azure SQL database is not free. Thus the cloud database connectivity cell does not work since 
