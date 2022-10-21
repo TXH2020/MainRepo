@@ -15,3 +15,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 12. Installed docker,minikube,apache spark,apache cassandra,apache server,apache hadoop on Kali Linux.
 13. Exposed localserver to the internet by using ssh with ngrok,localhost.run and localtunnel service.
 14. Used ngrok AuthToken on Google Colab to expose flask server to internet.
+15. Created a data warehouse on snowflake and created a cluster in Datastax Astra.
