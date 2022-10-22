@@ -23,5 +23,7 @@ Course Name
 <td>90</td>
 </tr>
 </table>
+<br>
+  <p>Have also attended a NPTEL AI Workshop:<b> NPTEL-VuNet Data-Centric AI Masterclass</b></p>
 </body>
 </html>
