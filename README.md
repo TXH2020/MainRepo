@@ -23,6 +23,10 @@
 <td>Google Cloud Platform</td>
 <td>https://www.cloudskillsboost.google/public_profiles/1880ea28-7fb8-4893-9102-ae50b5ffc8aa</td>
 </tr>
+<tr>
+<td>AWS</td>
+<td>https://www.credly.com/users/tejas-hegde.53da9021/badges</td>
+</tr>
 </table>
 </body>
 </html>
