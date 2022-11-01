@@ -2,7 +2,7 @@ About an year ago I had made an attempt to predict Air Quality Index for few day
 
 I was just in my first year back then and I used a Linear Regression model to fit a straight line for the air pollution data.
 
-Now in my third year, I had a lot of programming and machine learning knowledge on my side. So I decided to revisit my project and give it a makeover.
+By the time I was in my third year, I had acquired a lot of programming and machine learning knowledge. So I decided to revisit my project and give it a makeover.
 
 The old project(Air Quality.ipynb) just used the data in my GitHub repo(the above mentioned files) and could process just those files. Morover there was only 10 days' worth of data in the ....36.xlsx file. The new project(Air Quality New.ipynb) automatically fetches a year worth of data using the Selenium Automation Package from the website containing the air quality data(link given below). Morover it can process any excel file which has the six parameters(PM2.5,PM10,NO2,SO2,CO,Ozone).   
 
