@@ -6,8 +6,8 @@ Now in my third year, I had a lot of programming and machine learning knowledge 
 
 The old project(Air Quality.ipynb) just used the data in my GitHub repo(the above mentioned files) and could process just those files. Morover there was only 10 days' worth of data in the ....36.xlsx file. The new project(Air Quality New.ipynb) automatically fetches a year worth of data using the Selenium Automation Package from the website containing the air quality data(link given below). Morover it can process any excel file which has the six parameters(PM2.5,PM10,NO2,SO2,CO,Ozone).   
 
-The old project used a Linear Regression model whose predictions were not so accurate(due to the straight line fit). The new project uses a LSTM model which provides a very good fit to the training data and also gives much better predictions.
+The old project used a Linear Regression model whose predictions were not so accurate(due to the straight line fit). The new project uses a LSTM model which provides a very good fit to the training data and hence, better predictions.
 
 Special thanks to BTM Layout pollution control board whose data I have used for the project. 
 
-[Link to Air quality data website:](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/data)
+[Link to CPCB website:](https://cpcb.nic.in/)
