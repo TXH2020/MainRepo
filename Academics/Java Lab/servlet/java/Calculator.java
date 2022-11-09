@@ -26,16 +26,11 @@ public class Calculator extends HttpServlet {
 				 result=no1-no2;
 			 else if(val.equals("multiply"))
 				 result=no1*no2;
-			 else if(val.equals("divide")) {
-				 try {
-					 result=no1/no2;
-				 }
-			 	catch(ArithmeticException e) {
-			 		result=Double.NEGATIVE_INFINITY;
-			 	}}
+			 else if(val.equals("divide")) 
+			 		result=no1/no2;
 			 else
 				 result=Math.exp(no1);
-			 if(result==Double.NEGATIVE_INFINITY)
+			 if(result==Double.NEGATIVE_INFINITY || result==Double.POSITIVE_INFINITY)
 			 out.println("<html><body>"
 			           +"<h1>Second number cannot be zero</h1>"
 					   +"</body></html>");
@@ -46,7 +41,7 @@ public class Calculator extends HttpServlet {
 			  }	
 			catch(Exception e) {
 				out.println("<html><body>"
-				           +"<h1>Please enter numbers</h1>"
+				           +"<h1>Please enter numbers/operation</h1>"
 						   +"</body></html>");
 			}}
 			public void doGet(HttpServletRequest req,  HttpServletResponse res)  
