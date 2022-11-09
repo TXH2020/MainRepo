@@ -44,8 +44,5 @@ public class Calculator extends HttpServlet {
 				           +"<h1>Please enter numbers/operation</h1>"
 						   +"</body></html>");
 			}}
-			public void doGet(HttpServletRequest req,  HttpServletResponse res)  
-					  throws ServletException, IOException {
-				System.out.println("dfghdfgh");
-			}
+			
 }
