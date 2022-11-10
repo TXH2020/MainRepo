@@ -22,6 +22,11 @@ Course Name
 <td>Jan-Apr 2022</td>
 <td>90</td>
 </tr>
+<tr>
+<td>Data Structure And Algorithms Using Java</td>
+<td>Jul-Oct 2022</td>
+<td>71</td>
+</tr>
 </table>
 <br>
   <p>Have also attended a NPTEL AI Workshop:<b> NPTEL-VuNet Data-Centric AI Masterclass</b></p>
