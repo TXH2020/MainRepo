@@ -5,6 +5,7 @@ import tflite_runtime.interpreter as tflite
 import random
 import pickle
 from nltk.stem.lancaster import LancasterStemmer
+from flask_cors import CORS
 stemmer = LancasterStemmer()
 base_dir='/home/DrStrange1/Chatbot/'
 interpreter = tflite.Interpreter(model_path=base_dir+'model.tflite')
@@ -88,6 +89,7 @@ def response(sentence, userID='123', show_details=False):
             results.pop(0)
 
 app = Flask(__name__)
+cors = CORS(app)
 @app.route('/',methods=['GET','POST'])
 def predict1():
   try:
