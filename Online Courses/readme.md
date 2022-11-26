@@ -23,7 +23,12 @@ Course Name
 <td>90</td>
 </tr>
 <tr>
-<td>Data Structure And Algorithms Using Java</td>
+<td>Introduction To Machine Learning</td>
+<td>Jul-Oct 2022</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Data Structures and Algorithms Using Java</td>
 <td>Jul-Oct 2022</td>
 <td>71</td>
 </tr>
