@@ -17,3 +17,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 14. Used ngrok AuthToken on Google Colab to expose flask server to internet.
 15. Created a data warehouse on snowflake and created a cluster in Datastax Astra.
 16. Have played Amazon CloudQuest game to learn AWS Fundamentals. Created an Amazon S3 website as part of it.
+17. Created account on datastax astra. Created Cassandra DB and connected to it through Pyspark.
