@@ -1,0 +1,39 @@
+Add the following entry to the etc/hosts file of your OS in case the flask server is in a different computer(than the one with kafka):
+(The Kafka client uses the below mentioned example IP. If both flask and kafka server are in the same computer, then use localhost in the bootstrap server.)
+
+<kafka_server_ip_address>	<name_of_VM>
+Eg.
+kali	192.168.0.203
+
+where VM is the Machine on which kafka_server is running.
+
+Download and install apache cassandra and apache kafka on the intended machine.
+start cassandra using following command:
+bin/cassandra
+Then type this in another   terminal: bin/cqlsh
+After activating cqlsh client, type the following commands:
+CREATE KEYSPACE chat_keyspace WITH replication = {'class': 'NetworkTopologyStrategy','replication_factor': 1}; 
+CREATE TABLE chat_table (question text PRIMARY KEY, answer text);
+
+Then download datastax cassandra kafka connector using the following link:
+https://downloads.datastax.com/kafka/kafka-connect-cassandra-sink-1.4.0.tar.gz
+Extract it. Then go inside extracted folder you will find conf folder and a jar file. go to conf and copy the cassandra-sink-standalone.properties.sample. 
+Paste it in the Kafka config folder and rename it as cassandra-sink.properties
+Then in the same folder, find connect-standalone template or script file. 
+In the plugin path put the path to the connect jar in the kafka-connector folder.
+Then in the cassandra-sink.properties make appropriate changes as shown in the cassandra-sink.properties file given here in github. 
+
+
+start apache kafka as follows:
+bin/zookeeper-server-start.sh config/zookeeper.properties
+bin/kafka-server-start.sh config/server.properties
+
+In a new terminal type the following command:
+bin/connect-standalone.sh config/connect-standalone.properties config/cassandra-sink.properties
+Please ensure that before running the above step, you have chat_topic1 topic created in your server or you have run the kafka client once.
+
+You have successfully connected a Kafka Stream to a Cassandra Database Sink.
+
+
+
+
