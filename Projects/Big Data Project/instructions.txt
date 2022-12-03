@@ -1,5 +1,12 @@
+The following python packages are required to be installed:
+flask
+tensorflow-cpu
+nltk
+kafka-python
+pyspark
+
 Add the following entry to the etc/hosts file of your OS in case the flask server is in a different computer(than the one with kafka):
-(The Kafka client uses the below mentioned example IP. If both flask and kafka server are in the same computer, then use localhost in the bootstrap server.)
+(The Kafka client in the code uses the below mentioned example IP. If both flask and kafka server are in the same computer, then use localhost in the bootstrap server.)
 
 <kafka_server_ip_address>	<name_of_VM>
 Eg.
