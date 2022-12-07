@@ -252,7 +252,7 @@ width:1000px;
               
 <p>
               <b> <label for="emailAddress">Email:</label></b>
-                <input type="tel" name="email" id="emailAddress" placeholder="xyz@g.com"><br>
+                <input type="email" name="email" id="emailAddress" placeholder="xyz@g.com"><br>
 
 
               <b> <label for="phone">Phone no.:</label></b><br>
