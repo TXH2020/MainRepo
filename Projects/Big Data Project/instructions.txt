@@ -20,6 +20,7 @@ bin/cassandra
 Then type this in another   terminal: bin/cqlsh
 After activating cqlsh client, type the following commands:
 CREATE KEYSPACE chat_keyspace WITH replication = {'class': 'NetworkTopologyStrategy','replication_factor': 1}; 
+use chat_keyspace;
 CREATE TABLE chat_table (question text PRIMARY KEY, answer text);
 
 Then download datastax cassandra kafka connector using the following link:
