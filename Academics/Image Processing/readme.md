@@ -19,6 +19,6 @@ The Attendance_Project file contains my contribution to the project.It takes car
   
   https://docs.google.com/forms/d/e/1FAIpQLSd4zTjjiwvkGdG35ABFr8tI-AqnTezR5On7rJfrTNk1_ByPkQ/viewform?usp=share_link
   
-  The above link is the form that I designed to capture student info. 
+  The above link is the form that I designed to capture student info. The FaceRecognitionSample file is a toy example that demonstrates how our attendance system works technically.
   
   </i></p>
