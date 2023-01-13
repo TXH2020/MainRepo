@@ -17,4 +17,8 @@ The Attendance_Project file contains my contribution to the project.It takes car
   However, the face information of each student is stored in the drive and hence subsequent runs of the notebook are faster. The complete information about the project is available in the img_proc_rep.pdf file.
   This assignment taught me a vast amount of things such as dlib, face_recogntion, cloud and various utility libraries such as gdown, gspread. In fact one of my projects(CloudAPI colab) were inspired while trying to find a solution to access the photos uploaded in the google form.
   
+  https://docs.google.com/forms/d/e/1FAIpQLSd4zTjjiwvkGdG35ABFr8tI-AqnTezR5On7rJfrTNk1_ByPkQ/viewform?usp=share_link
+  
+  The above link is the form that I designed to capture student info. 
+  
   </i></p>
