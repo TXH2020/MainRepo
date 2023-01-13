@@ -6,7 +6,7 @@ Welcome to the Image Processing directory.
 
 - I also learnt about Deep Learning, CNNs and architectures such as ResNet, VGG16 and 19.
 
-- The files named Image Processing_x demonstrate my practical experience of this course. The last file with index 4 contains Deep Learning Architectures and hence requires the use of GPU for training.
+- The files named Image Processing_x demonstrate my practical experience of this course. The last file with index 4 contains Deep Learning Architectures and hence requires the use of GPU for training. The notebook takes around 40-45 min for complete execution.
 
 <p><i>As part of the course we had an assignment. We had to implement an automatic face recognition system for attendance.
 
