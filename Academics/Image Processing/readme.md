@@ -14,6 +14,7 @@ The Attendance_Project file contains my contribution to the project.It takes car
 
   The system works as follows: the teacher takes a photo of the classroom, uploads it to his/her google drive. Then the project notebook is run on google colab.
   The notebook for the first time has to access every photo of the student which in our case was collected by a google form. Hence it may take a long time. 
-  However, the face information of each student is stored in the drive and hence subsequent runs of the notebook are faster. The complete information about the project is available in the img_proc_rep.pdf file. 
+  However, the face information of each student is stored in the drive and hence subsequent runs of the notebook are faster. The complete information about the project is available in the img_proc_rep.pdf file.
+  This assignment taught me a vast amount of things such as dlib, face_recogntion, cloud and various utility libraries such as gdown, gspread. In fact one of my projects(CloudAPI colab) were inspired while trying to find a solution to access the photos uploaded in the google form.
   
   </i></p>
