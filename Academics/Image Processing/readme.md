@@ -14,6 +14,6 @@ The Attendance_Project file contains my contribution to the project.It takes car
 
   The system works as follows: the teacher takes a photo of the classroom, uploads it to his/her google drive. Then the project notebook is run on google colab.
   The notebook for the first time has to access every photo of the student which in our case was collected by a google form. Hence it may take a long time. 
-  However, the face information of each student is stored in the drive and hence subsequent runs of the notebook are faster. The complete information about the project is available in the project file. 
+  However, the face information of each student is stored in the drive and hence subsequent runs of the notebook are faster. The complete information about the project is available in the img_proc_rep.pdf file. 
   
   </i></p>
