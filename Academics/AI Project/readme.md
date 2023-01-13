@@ -50,3 +50,7 @@ In python anywhere I had to make certain modifications to the google samples lib
 One day in youtube I hit upon ChatGPT. I was easily able to integrate ChatGPT into my webapp. The above limitation of google assistant is easily overcome but the catch here is that the service of ChatGPT expires after a free trial.
 
 The final web app is given by the final_app.py file. Hence this project tested my developer skills to the extreme while also taught me an ocean of concepts like ML, Keras, pickle, tflite, flask, google assistant, google cloud, virtual environment, modifying packages, learning about colab, OAuth and credentials flow. 
+
+The chatbot is now integrated with my website at the bottom right corner:
+
+http://roger123.pythonanywhere.com/
