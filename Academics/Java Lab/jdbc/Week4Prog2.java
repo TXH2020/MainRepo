@@ -13,6 +13,21 @@ public class Week4Prog2{
 	Savepoint s1=null;
 	try {
 	con=DriverManager.getConnection(url+dbName,user,pass);
+	package hpack;
+
+import java.util.Scanner;
+import java.sql.*;
+public class Week4Prog2{	
+	public static void main(String args[]) {
+	Scanner in=new Scanner(System.in);
+	String user="root";
+	String pass="";
+	String dbName="bank_account";
+	String url="jdbc:mysql://localhost:3306/";
+	Connection con=null;
+	Savepoint s1=null;
+	try {
+	con=DriverManager.getConnection(url+dbName,user,pass);
 	con.setAutoCommit(false);
 	String q1="update bank set Balance=20000 where Account_Name='erty'";
 	String q2="update bank set Balance=50000j where Account_Name='sfdagdfg'";
@@ -31,6 +46,18 @@ public class Week4Prog2{
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+		
+	}
+	finally {
+		try {
+			con.close();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}
+}
 		
 	}
 	finally {
