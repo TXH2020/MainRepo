@@ -29,11 +29,11 @@ public class Week4Prog2{
 	try {
 	con=DriverManager.getConnection(url+dbName,user,pass);
 	con.setAutoCommit(false);
-	String q1="update bank set Balance=20000 where Account_Name='erty'";
+	String q1="update bank set Balance=40000 where Account_Name='erty'";
 	String q2="update bank set Balance=50000j where Account_Name='sfdagdfg'";
 	Statement st=con.createStatement();
 	st.executeUpdate(q1);
-	con.commit();
+	//con.commit();
 	s1=con.setSavepoint();
 	st.executeUpdate(q2);
 	con.commit();
@@ -42,22 +42,11 @@ public class Week4Prog2{
 	catch(SQLException e) {
 		try {
 			con.rollback(s1);
+			con.commit();
 		} catch (SQLException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-		
-	}
-	finally {
-		try {
-			con.close();
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-}
-}
 		
 	}
 	finally {
