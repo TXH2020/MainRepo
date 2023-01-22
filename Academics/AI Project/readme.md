@@ -54,3 +54,14 @@ The final web app is given by the final_app.py file. Hence this project tested m
 The chatbot is now integrated with my website at the bottom right corner:
 
 http://roger123.pythonanywhere.com/
+
+You can ask the following questions.
+1. Website info
+2. frontend
+3. backend
+4. framework
+5. Features
+6. deployment
+7. Purpose
+<p>To test its contextuality you can ask about deployment. For example type where is the website deployed? Then type why? The chatbot answers the question in the context of deployment.</p>
+<p>If you ask any other question, then based on the words the chatbot will either take it to be a question related to one of the above categories or it will activate ChatGPT(or Google Assistant depending on Availability) to try to answer the question. 
