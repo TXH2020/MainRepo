@@ -36,6 +36,6 @@
          "patterns": ["Why?","Why pythonanywhere.com?","Tell me why pythonanywhere was chosen","Why python anywhere?"],
          "responses": ["pythonanywhere.com offers a generous free tier which made it possible for the dev to deploy the website FOR FREE 24/7."],
 	 "context-filter":"deploy"
-        },
+        }
    ]
 }
