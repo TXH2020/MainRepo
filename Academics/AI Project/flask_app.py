@@ -35,7 +35,7 @@ def call_assistant(sentence):
 
 import openai
 def call_rlagent(sentence):
-    openai.api_key = "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"
+    openai.api_key = "OpenAI ChatGPT key"
 
     response = openai.Completion.create(
   model="text-davinci-003",
@@ -98,8 +98,8 @@ def classify(sentence):
 def response(sentence, userID='123', show_details=False):
     results = classify(sentence)
     # if we have a classification then find the matching intent tag
-    print(results[0])
-    if results[0][1]>0.6:
+    if(len(results)!=0):
+     if results[0][1]>0.6:
         # loop as long as there are matches to process
         while results:
             for i in intents['intents']:
