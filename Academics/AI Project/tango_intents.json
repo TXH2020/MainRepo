@@ -1,0 +1,41 @@
+{"intents": [
+        {"tag": "about",
+         "patterns": ["What is the website?", "Tell me about this website.", "Can you give some information about this website?","Website Info"],
+         "responses": ["This website is an implementation of the Tango with Django Book. For more info, visit my dev's github page at https://github.com/TXH2020/tango_with_django_th"]
+        },
+	{"tag": "Features",
+         "patterns": ["What are the features of this website?", "Features?","Tell some features of this website?","Can you tell me some features of this website?"],
+         "responses": ["Images, user login facility, profile view, useful links and myself, Mr. Sam, the chatbot :)"]   
+        },
+        {"tag": "frontend",
+         "patterns": ["How is the front end implemented?", "Tell me about the frontend","Frontend?"],
+         "responses": ["The frontend is made of HTML and Javascript which is dynamically rendered by Django."]
+        },
+	{"tag": "Framework",
+         "patterns": ["What framework was used to make this website?", "Tell me about the framework.","Framework?"],
+         "responses": ["The framework used here is Django, which is built upon Python language. It allows us build enterprise level websites."]
+        },
+	{"tag": "backend",
+         "patterns": ["How is the backend implemented?", "backend?","Tell me about the backend"],
+         "responses": ["The backend uses Django-redux for authentication and an SQLite database to store data about useful pages and users."]
+        },
+	{"tag": "Developer",
+         "patterns": ["Who developed this website?","Your Developer?","Who's the dev?","Give me the developer's contact information","Contact info"],
+         "responses": ["This website was developed by Tejas Hegde. His email is 1001.tejas@gmail.com. GitHub: https://github.com/TXH2020/MainRepo"]
+        },
+	{"tag": "Deployment",
+         "patterns": ["Where is this website deployed?"],
+         "responses": ["The website is deployed in pythonanywhere.com."],
+	 "context-set":"deploy"
+        },
+	{"tag": "Purpose",
+         "patterns": ["What's the purpose of this website?","purpose of website","Tell the purpose of this website","website purpose?","Use of website?"],
+         "responses": ["The developer built this website during his vacation to gain knowledge about web development."]
+        },
+	{"tag": "Reason",
+         "patterns": ["Why?","Why pythonanywhere.com?","Tell me why pythonanywhere was chosen","Why python anywhere?"],
+         "responses": ["pythonanywhere.com offers a generous free tier which made it possible for the dev to deploy the website FOR FREE 24/7."],
+	 "context-filter":"deploy"
+        },
+   ]
+}
