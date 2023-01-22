@@ -55,6 +55,8 @@ The chatbot is now integrated with my website at the bottom right corner:
 
 http://roger123.pythonanywhere.com/
 
+I trained the Chatbot using the tango_intents.json. Tango refers to my Django website mentioned in the above link.
+
 You can ask the following questions.
 1. Website info
 2. frontend
