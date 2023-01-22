@@ -4,7 +4,7 @@ The chatbot presented here tries to present this concept. The idea was taken fro
 
 https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
 
-To make the chatbot truly contextual we would require a really huge dataset, so to demonstrate this concept we included one example: are you open today? Then type tomorrow? The chatbot responds contextually in the context of 'open'. Like this we can add more contextual information.
+To make the chatbot truly contextual we would require a really huge dataset, so to demonstrate this concept we included one example: are you open today? Then type tomorrow? The chatbot responds contextually in the context of 'day' i.e. open that day or not(Refer intents.json for one question we have context-set:"day" and for another we have context-filter:"day"). Like this we can add more contextual information.
 
 Otherwise, the chatbot does a fantastic job by using NLP to recognize which question the user is asking. This is done using a neural network classifier. Vikas helped to make training faster by using log error measure instead of simple error measure which I used earlier. But it was a big headache for me to get the code in tflearn given in the article to keras.
 
