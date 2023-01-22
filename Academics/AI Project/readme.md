@@ -64,4 +64,4 @@ You can ask the following questions.
 6. deployment
 7. Purpose
 <p>To test its contextuality you can ask about deployment. For example type where is the website deployed? Then type why? The chatbot answers the question in the context of deployment.</p>
-<p>If you ask any other question, then based on the words the chatbot will either take it to be a question related to one of the above categories or it will activate ChatGPT(or Google Assistant depending on Availability) to try to answer the question. 
+<p>If you ask any other question, then based on the words the chatbot will either take it to be a question related to one of the above categories or it will activate ChatGPT(or Google Assistant depending on Availability) to try to answer the question. For example if you ask FIFA scores, it will answer to you like the normal assistant. Hence the chatbot is a best effort QA service.</p>
