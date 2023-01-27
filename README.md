@@ -6,7 +6,7 @@
 <li> Online Courses(see the Online Courses Folder) that I took up</li>
 <li>Projects(see the Projects folder) that I have took up.</li>
 <li>The Academics folder contains programs that I developed as part of my academics.</li>
-<li>All the ipython notebooks(excluding Kafka.ipynb and SensorVisualization.ipynb files) can be easily run on Colab by simply by clicking on run all. Here and there few notebooks may required GPU so I have explicitly mentioned that in such notebooks. </li>
+<li>Most of the ipython notebooks can be easily run on Colab by simply by clicking on run all. Here and there few notebooks may required GPU so I have explicitly mentioned that in such notebooks. </li>
 <li>The Miscellaneous.txt file contains a non-exhaustive list of other activities that I did in my spare time</li></i>
 <br>
 
