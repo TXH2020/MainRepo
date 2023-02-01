@@ -9,13 +9,13 @@ from flask_cors import CORS
 import googlesamples.assistant.grpc.textinput as ti
 stemmer = LancasterStemmer()
 base_dir='/home/DrStrange1/Chatbot/'
-interpreter = tflite.Interpreter(model_path=base_dir+'m.tflite')
+interpreter = tflite.Interpreter(model_path=base_dir+'tm.tflite')
 interpreter.allocate_tensors()
-with open(base_dir+'i.pkl','rb') as f:
+with open(base_dir+'ti.pkl','rb') as f:
   intents=pickle.load(f)
-with open(base_dir+'c.pkl','rb') as f:
+with open(base_dir+'tc.pkl','rb') as f:
   classes=pickle.load(f)
-with open(base_dir+'w.pkl','rb') as f:
+with open(base_dir+'tw.pkl','rb') as f:
   words=pickle.load(f)
 
 def call_assistant(sentence):
@@ -35,8 +35,8 @@ def call_assistant(sentence):
 
 import openai
 def call_rlagent(sentence):
-    openai.api_key = "OpenAI ChatGPT key"
-
+    openai.api_key = "OpenAI API key"
+    
     response = openai.Completion.create(
   model="text-davinci-003",
   prompt=" AI: I am an AI created by OpenAI. How can I help you today?\nHuman: "+ sentence+"\nAI:",
@@ -95,11 +95,20 @@ def classify(sentence):
     # return tuple of intent and probability
     return return_list
 
+def return_value(sentence):
+    try:
+        return call_rlagent(sentence)
+    except:
+        return call_assistant(sentence)
+
 def response(sentence, userID='123', show_details=False):
     results = classify(sentence)
     # if we have a classification then find the matching intent tag
+    
     if(len(results)!=0):
+     
      if results[0][1]>0.6:
+        
         # loop as long as there are matches to process
         while results:
             for i in intents['intents']:
@@ -115,18 +124,17 @@ def response(sentence, userID='123', show_details=False):
                         (userID in context and 'context_filter' in i and i['context_filter'] == context[userID]):
                         if show_details: print ('tag:', i['tag'])
                         # a random response from the intent
+                        
                         return random.choice(i['responses'])
                     else:
-                        try:
-                            return call_rlagent(sentence)
-                        except:
-                            return call_assistant(sentence)
+                        
+                        return return_value(sentence)
             results.pop(0)
+     else:
+         return return_value(sentence)
     else:
-        try:
-            return call_rlagent(sentence)
-        except:
-            return call_assistant(sentence)
+        
+        return return_value(sentence)
 
 app = Flask(__name__)
 cors = CORS(app)
