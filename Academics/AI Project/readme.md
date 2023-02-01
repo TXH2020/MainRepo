@@ -1,3 +1,5 @@
+##Update: LocalSystem.py file now automatically extracts credentials after authentication flow and stores it in the required directory.
+
 We decided to make a Chatbot for our AI assignment. Like any standard chatbot, we made use of NLP. However the difference was that we had to make our chatbot contextual that is it must remember the intent behind the conversation. For example, if we ask to the chatbot what is the weather today? And then we simply ask tomorrow? Then the chatbot must understand that we have asked tomorrow in the context of weather and hence it must read out forecasts. 
 
 The chatbot presented here tries to present this concept. The idea was taken from this link:
