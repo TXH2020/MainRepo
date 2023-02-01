@@ -28,7 +28,7 @@ pip install --extra-index-url https://google-coral.github.io/py-repo/ tflite_run
 
 pip install Flask-Cors
 
-But our teacher asked a rather nasty question on purpose: I want to tell you a secret. This is an informal conversation and if our chatbot is to handle conversations like this, then the dataset has to be really really huge. I was brooding about this and as I thought I remembered Google Assistant; how it handles informal discussions to quite a good extent. I thought why not leverage this existing feature? Thus I integrated google assistant into the web app. To do this involved a number of steps. Floowed this tutorial:
+But our teacher asked a rather nasty question on purpose: "I want to tell you a secret". This is an informal conversation and if our chatbot is to handle conversations like this, then the dataset has to be really really huge. I was brooding about this and as I thought I remembered Google Assistant; how it handles informal discussions to quite a good extent. I thought why not leverage this existing feature? Thus I integrated google assistant into the web app. To do this involved a number of steps. Floowed this tutorial:
 
 https://developers.google.com/assistant/sdk/guides/service/python
 
