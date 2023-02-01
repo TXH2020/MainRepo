@@ -1,4 +1,4 @@
-rom flask import Flask,request,jsonify
+from flask import Flask,request,jsonify
 import nltk
 import numpy as np
 import tflite_runtime.interpreter as tflite
