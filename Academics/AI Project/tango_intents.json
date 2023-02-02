@@ -21,7 +21,7 @@
         },
 	{"tag": "Developer",
          "patterns": ["Who developed this website?","Your Developer?","Who's the dev?","Give me the developer's contact information","Contact info"],
-         "responses": ["This website was developed by Tejas Hegde. His email is 1001.tejas@gmail.com. GitHub: https://github.com/TXH2020/MainRepo"]
+         "responses": ['This website was developed by Tejas Hegde. His email is 1001.tejas@gmail.com. <a src="https://github.com/TXH2020/MainRepo"> GitHub Link:</a>']
         },
 	{"tag": "Deployment",
          "patterns": ["Where is this website deployed?"],
