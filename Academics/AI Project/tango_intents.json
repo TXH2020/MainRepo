@@ -1,7 +1,7 @@
 {"intents": [
         {"tag": "about",
          "patterns": ["What is the website?", "Tell me about this website.", "Can you give some information about this website?","Website Info"],
-         "responses": ["This website is an implementation of the Tango with Django Book. For more info, visit my dev's github page at https://github.com/TXH2020/tango_with_django_th"]
+         "responses": ["This website is an implementation of the Tango with Django Book. For more info, visit my dev's github page at <a href='https://github.com/TXH2020/tango_with_django_th'>here</a>"]
         },
 	{"tag": "Features",
          "patterns": ["What are the features of this website?", "Features?","Tell some features of this website?","Can you tell me some features of this website?"],
