@@ -1,0 +1,172 @@
+{"intents": [
+    {"tag": "courses",
+     "patterns": ["Courses", "UG Courses.", "undergraduate courses","postgraduate courses","PG Courses"],
+     "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/'>Courses</a>"]
+    },
+{"tag": "1st&2ndsem",
+     "patterns": ["1st sem courses", "first sem courses","Sem 1 courses","2nd sem courses", "second sem courses","Sem 2 courses"],
+     "responses": ["<a href='https://sanjeethar.wixsite.com/foc-sr'>FOC</a>"]   
+    },
+    {"tag": "3rdsem",
+     "patterns": ["3rd sem courses", "Sem 3 courses","third sem courses"],
+     "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-iii-sem'>Sem3</a>"]
+    },
+    {"tag": "4thsem",
+    "patterns": ["4th sem courses", "Sem 4 courses","fourth sem courses"],
+    "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse_iv_sem'>Sem4</a>"]
+   },
+   {"tag": "5thsem",
+   "patterns": ["5th sem courses", "Sem 5 courses","fifth sem courses"],
+   "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-v-sem'>Sem5</a>"]
+  },
+  {"tag": "6thsem",
+  "patterns": ["6th sem courses", "Sem 6 courses","sixth sem courses"],
+  "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vi-sem'>Sem6</a>"]
+ },
+ {"tag": "7thsem",
+ "patterns": ["7th sem courses", "Sem 7 courses","seventh sem courses"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vii-sem'>Sem7</a>"]
+},
+{"tag": "8thsem",
+ "patterns": ["8th sem courses", "Sem 8 courses","eighth sem courses"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/viii-semester-courses'>Sem8</a>"]
+},
+{"tag": "DS",
+ "patterns": ["DS","Data Strucutures With C", "Data Structures"],
+ "responses": ["<a href='http://msrit-bangalore.wixsite.com/dsc-apk-2016'>DS</a>"]
+},
+{"tag": "DMS",
+ "patterns": ["DMS", "Discrete Mathematical Structures","Discrete Mathematics"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cs314-discrete-mathematical-structures2/'>DMS</a>"]
+},
+{"tag": "TOC",
+ "patterns": ["TOC", "Theory Of Computation"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/msrit-cse-toc-2020/'>TOC</a>"]
+},
+{"tag": "OOPS",
+ "patterns": ["OOPS", "Object Oriented Programming","OO Programming"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/oopswithjava/home'>OOP</a>"]
+},
+{"tag": "ADD",
+ "patterns": ["ADD", "Analog and Digital Design","Electronics"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/ade-course-website/home'>ADD</a>"]
+},
+{"tag": "COA",
+ "patterns": ["COA","Computer Organization and Architecture"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/coa-course-website/home'>COA</a>"]
+},
+{"tag": "DAA",
+ "patterns": ["DAA", "Algorithms","Design and Analysis Of Algorithms"],
+ "responses": ["<a href='https://cs413daa.wixsite.com/algorithms'>DAA</a>"]
+},
+{"tag": "DAALAB",
+ "patterns": ["DAA LAB", "Algorithms Lab","Java Algorithms"],
+ "responses": ["<a href='https://algorithmlaboratory.wordpress.com/'>DAA_LAB</a>"]
+},
+{"tag": "DCN",
+ "patterns": ["DCN", "Data Communication and Networking","Communications","Networking"],
+ "responses": ["<a href='https://meeraak.wixsite.com/data-communication'>DCN</a>"]
+},
+{"tag": "MP",
+ "patterns": ["MP", "Microprocessors and Microcontrollers"],
+ "responses": ["<a href='http://bit.ly/mpcserit'>MP</a>"]
+},
+{"tag": "Python",
+ "patterns": ["Python", "Python Lab","Python Programming","Python Programming Laboratory"],
+ "responses": ["<a href='http://sites.google.com/a/msrit.edu/python_lab/'>PythonLab</a>"]
+},
+{"tag": "OS",
+ "patterns": ["OS","Operating Systems"],
+ "responses": ["<a href='https://sites.google.com/view/operatingsystemscse/home'>Os</a>"]
+},
+{"tag": "DBMS",
+ "patterns": ["DBMS", "Database","Database Management System"],
+ "responses": ["<a href='http://kideinstein.github.io/DBMS-Course-Website'>DBMS</a>"]
+},
+{"tag": "AI",
+ "patterns": ["AI", "Artificial Intelligence"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/artificialintelligence/home'>AI</a>"]
+},
+{"tag": "Java",
+ "patterns": ["Java", "Advanced Java Programming","Java Laboratory"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/java-programming/'>Java</a>"]
+},
+{"tag": "DMML",
+ "patterns": ["DMML","ML","Data Mining and Machine Learning"],
+ "responses": ["<a href='https://sites.google.com/view/dmml'>DM</a>"]
+},
+{"tag": "CNL",
+ "patterns": ["Computer Networks Laboratory", "CN Lab"],
+ "responses": ["<a href='https://sanjeethar.wixsite.com/cnlab-sr'>CNL</a>"]
+},
+{"tag": "RPA",
+ "patterns": ["RPA", "Robotic Process and Automation"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/rpa/home'>RPA</a>"]
+},
+
+{"tag": "CD",
+ "patterns": ["CD", "Compiler Design"],
+ "responses": ["<a href='http://msrit-bangalore.wixsite.com/cd-cs61-2018'>CD</a>"]
+},
+{"tag": "USP",
+ "patterns": ["USP", "Unix System Programming and Web Technologies","Unix Programming","Web Technologies"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/web-technologies/'>USP</a>"]
+},
+{"tag": "SE",
+ "patterns": ["SE", "Software Engineering"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cs62-software-engineering/home'>SE</a>"]
+},
+{"tag": "IOT",
+ "patterns": ["IOT", "IoT","Internet Of Things","Embedded Systems"],
+ "responses": ["<a href='https://sites.google.com/view/iot-embedded-course-website/home'>IOT</a>"]
+},
+{"tag": "MiniProject",
+ "patterns": ["Mini Project","Minor Project"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vi-sem/mini_project'>MiniProject</a>"]
+},
+{"tag": "CNS",
+ "patterns": ["CNS", "Crypography and Network Security","Cryptography","Network Security"],
+ "responses": ["<a href='https://csecryptography.web.app/'>CNS</a>"]
+},
+{"tag": "HPC",
+ "patterns": ["HPC", "High Performance Computing","Multicore Architecture and Programming"],
+ "responses": ["<a href='https://aca721.wordpress.com/'>HPC</a>"]
+},
+{"tag": "Cloud",
+ "patterns": ["Cloud Computing"],
+ "responses": ["<a href='http://raji24.wix.com/cloud-computing'>Cloud</a>"]
+},
+{"tag": "PMEE",
+ "patterns": ["Project Management and Engineering Economics"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vii-sem/pmee'>PMME</a>"]
+},
+{"tag": "DL",
+ "patterns": ["DL", "Deep learning"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/cse23-introductiontodeeplearni/home'>Dl</a>"]
+},
+{"tag": "PAP",
+ "patterns": ["Python Application programming"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/csoe1-python/'>PAP</a>"]
+},
+{"tag": "MAD",
+ "patterns": ["Mobile Application Development"],
+ "responses": ["<a href='https://sites.google.com/msrit.edu/mobileappdevcsoe02/home'>MAD</a>"]
+},
+{"tag": "BigData",
+ "patterns": ["Big Data"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/big-data/'>BigData</a>"]
+},
+{"tag": "FinalProject",
+ "patterns": ["Final Project","Final Year Project","Major Project"],
+ "responses": ["<a href='http://sowmyabj.wix.com/cs812'>FinalProject</a>"]
+},
+{"tag": "Wireless",
+ "patterns": ["Wireless Sensor Network","WSN"],
+ "responses": ["<a href='https://wsnmcne211.wordpress.com/'>WSN</a>"]
+},
+{"tag": "Software Defined Networks",
+ "patterns": ["Software Defined Network","SDN"],
+ "responses": ["<a href='https://sanjeethar.wixsite.com/website'>WSN</a>"]
+}
+]
+}
