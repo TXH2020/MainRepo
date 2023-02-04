@@ -4,31 +4,31 @@
      "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/'>Courses</a>"]
     },
 {"tag": "1st&2ndsem",
-     "patterns": ["1st sem courses", "first sem courses","Sem 1 courses","2nd sem courses", "second sem courses","Sem 2 courses"],
+     "patterns": ["1st sem courses", "first sem courses","Sem 1 courses","2nd sem courses", "second sem courses","Sem 2 courses","1st sem","2nd sem"],
      "responses": ["<a href='https://sanjeethar.wixsite.com/foc-sr'>FOC</a>"]   
     },
     {"tag": "3rdsem",
-     "patterns": ["3rd sem courses", "Sem 3 courses","third sem courses"],
+     "patterns": ["3rd sem","3rd sem courses", "Sem 3 courses","third sem courses"],
      "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-iii-sem'>Sem3</a>"]
     },
     {"tag": "4thsem",
-    "patterns": ["4th sem courses", "Sem 4 courses","fourth sem courses"],
+    "patterns": ["4th sem courses", "Sem 4 courses","fourth sem courses","4th sem"],
     "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse_iv_sem'>Sem4</a>"]
    },
    {"tag": "5thsem",
-   "patterns": ["5th sem courses", "Sem 5 courses","fifth sem courses"],
+   "patterns": ["5th sem courses", "Sem 5 courses","fifth sem courses","5th sem"],
    "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-v-sem'>Sem5</a>"]
   },
   {"tag": "6thsem",
-  "patterns": ["6th sem courses", "Sem 6 courses","sixth sem courses"],
+  "patterns": ["6th sem courses", "Sem 6 courses","sixth sem courses","6th sem"],
   "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vi-sem'>Sem6</a>"]
  },
  {"tag": "7thsem",
- "patterns": ["7th sem courses", "Sem 7 courses","seventh sem courses"],
+ "patterns": ["7th sem courses", "Sem 7 courses","seventh sem courses","7th sem"],
  "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vii-sem'>Sem7</a>"]
 },
 {"tag": "8thsem",
- "patterns": ["8th sem courses", "Sem 8 courses","eighth sem courses"],
+ "patterns": ["8th sem courses", "Sem 8 courses","eighth sem courses","8th sem"],
  "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/viii-semester-courses'>Sem8</a>"]
 },
 {"tag": "DS",
