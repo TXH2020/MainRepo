@@ -21,9 +21,9 @@ with open(base_dir+'tw.pkl','rb') as f:
 def call_assistant(sentence):
     endp = ti.ASSISTANT_API_ENDPOINT
     deadl = ti.DEFAULT_GRPC_DEADLINE
-    creds = r"/home/DrStrange1/.config/google-oauthlib-tool/credentials.json"
+    creds = r" CREDENTIALS LOCATION"
     devid = '.'
-    devmodid = 'focus-blueprint-357904-chatbot-0htovv'
+    devmodid = 'YOUR DEVICE MODEL ID'
     lang = 'en-US'
     disp = False
     verb = False
