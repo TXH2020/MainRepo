@@ -1,29 +1,29 @@
 {"intents": [
-    {"tag": "courses",
-     "patterns": ["Courses", "UG Courses.", "undergraduate courses","postgraduate courses","PG Courses"],
-     "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/' target='_blank' rel='noopener noreferrer'>Courses</a>"]
-    },
+{"tag": "courses",
+ "patterns": ["Courses", "UG Courses.", "undergraduate courses","postgraduate courses","PG Courses","Study Materials"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/' target='_blank' rel='noopener noreferrer'>Courses</a>"]
+},
 {"tag": "1st&2ndsem",
-     "patterns": ["1st sem courses", "first sem courses","Sem 1 courses","2nd sem courses", "second sem courses","Sem 2 courses","1st sem","2nd sem"],
-     "responses": ["<a href='https://sanjeethar.wixsite.com/foc-sr' target='_blank' rel='noopener noreferrer'>FOC</a>"]   
-    },
-    {"tag": "3rdsem",
-     "patterns": ["3rd sem","3rd sem courses", "Sem 3 courses","third sem courses"],
-     "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-iii-sem' target='_blank' rel='noopener noreferrer'>Sem3</a>"]
-    },
-    {"tag": "4thsem",
-    "patterns": ["4th sem courses", "Sem 4 courses","fourth sem courses","4th sem"],
-    "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse_iv_sem' target='_blank' rel='noopener noreferrer'>Sem4</a>"]
-   },
-   {"tag": "5thsem",
-   "patterns": ["5th sem courses", "Sem 5 courses","fifth sem courses","5th sem"],
-   "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-v-sem' target='_blank' rel='noopener noreferrer'>Sem5</a>"]
-  },
-  {"tag": "6thsem",
-  "patterns": ["6th sem courses", "Sem 6 courses","sixth sem courses","6th sem"],
-  "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vi-sem' target='_blank' rel='noopener noreferrer'>Sem6</a>"]
- },
- {"tag": "7thsem",
+ "patterns": ["1st sem courses", "first sem courses","Sem 1 courses","2nd sem courses", "second sem courses","Sem 2 courses","1st sem","2nd sem"],
+ "responses": ["<a href='https://sanjeethar.wixsite.com/foc-sr' target='_blank' rel='noopener noreferrer'>FOC</a>"]   
+},
+{"tag": "3rdsem",
+ "patterns": ["3rd sem","3rd sem courses", "Sem 3 courses","third sem courses"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-iii-sem' target='_blank' rel='noopener noreferrer'>Sem3</a>"]
+},
+{"tag": "4thsem",
+ "patterns": ["4th sem courses", "Sem 4 courses","fourth sem courses","4th sem"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse_iv_sem' target='_blank' rel='noopener noreferrer'>Sem4</a>"]
+},
+{"tag": "5thsem",
+ "patterns": ["5th sem courses", "Sem 5 courses","fifth sem courses","5th sem"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-v-sem' target='_blank' rel='noopener noreferrer'>Sem5</a>"]
+},
+{"tag": "6thsem",
+ "patterns": ["6th sem courses", "Sem 6 courses","sixth sem courses","6th sem"],
+ "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vi-sem' target='_blank' rel='noopener noreferrer'>Sem6</a>"]
+},
+{"tag": "7thsem",
  "patterns": ["7th sem courses", "Sem 7 courses","seventh sem courses","7th sem"],
  "responses": ["<a href='https://sites.google.com/a/msrit.edu/cse-courses/cse-ug-courses-1/cse-vii-sem' target='_blank' rel='noopener noreferrer'>Sem7</a>"]
 },
@@ -103,7 +103,6 @@
  "patterns": ["RPA", "Robotic Process and Automation"],
  "responses": ["<a href='https://sites.google.com/msrit.edu/rpa/home' target='_blank' rel='noopener noreferrer'>RPA</a>"]
 },
-
 {"tag": "CD",
  "patterns": ["CD", "Compiler Design"],
  "responses": ["<a href='http://msrit-bangalore.wixsite.com/cd-cs61-2018' target='_blank' rel='noopener noreferrer'>CD</a>"]
@@ -167,6 +166,187 @@
 {"tag": "Software Defined Networks",
  "patterns": ["Software Defined Network","SDN"],
  "responses": ["<a href='https://sanjeethar.wixsite.com/website' target='_blank' rel='noopener noreferrer'>SDN</a>"]
+},
+
+
+
+
+{"tag": "HOD",
+ "patterns": ["HOD","Who is the HOD?","HOD profile"],
+ "responses": ["<a href='https://www.msrit.edu/department/cse.html#tab1-4' target='_blank' rel='noopener noreferrer'>HOD</a>"]
+},
+{"tag": "Faculty Profiles",
+ "patterns": ["Faculty Profiles"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty.html?dept=cse.html#start' target='_blank' rel='noopener noreferrer'>Faculty Profiles</a>"]
+},
+{"tag": "AP Maam",
+ "patterns": ["Annapurna P Patil"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=1' target='_blank' rel='noopener noreferrer'>AP Maam</a>"]
+},
+{"tag": "Bhushan Sir",
+ "patterns": ["Bhushan A Matad"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=2' target='_blank' rel='noopener noreferrer'>Bhushan Sir</a>"]
+},
+{"tag": "Monica Maam",
+ "patterns": ["Monica R Mundada"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=3' target='_blank' rel='noopener noreferrer'>Monica Maam</a>"]
+},
+{"tag": "Jayalakshmi Maam",
+ "patterns": ["Jayalakshmi DS"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=4' target='_blank' rel='noopener noreferrer'>Jayalakshmi Maam</a>"]
+},
+{"tag": "Shilpa C Maam",
+ "patterns": ["Shilpa Shashikant Chaudhari"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=5' target='_blank' rel='noopener noreferrer'>Shilpa C Maam</a>"]
+},
+{"tag": "TNR Sir",
+ "patterns": ["TNR Kumar"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=6' target='_blank' rel='noopener noreferrer'>TNR Sir</a>"]
+},
+{"tag": "SRR Maam",
+ "patterns": ["S Rajarajeshwari"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=7' target='_blank' rel='noopener noreferrer'>SRR Maam</a>"]
+},
+{"tag": "Sangeetha J Maam",
+ "patterns": ["J Sangeetha"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=8' target='_blank' rel='noopener noreferrer'>Sangeetha J Maam</a>"]
+},
+{"tag": "Parkavi Maam",
+ "patterns": ["Parkavi A"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=9' target='_blank' rel='noopener noreferrer'>Parkavi Maam</a>"]
+},
+{"tag": "Geeta Maam",
+ "patterns": ["Geetha J"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=10' target='_blank' rel='noopener noreferrer'>Geeta Maam</a>"]
+},
+{"tag": "DRB Sir",
+ "patterns": ["Dayananda RB"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=11' target='_blank' rel='noopener noreferrer'>DRB Sir</a>"]
+},
+{"tag": "Sangeetha V Maam",
+ "patterns": ["Sangeetha V"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=12' target='_blank' rel='noopener noreferrer'>Sangeetha V Maam</a>"]
+},
+{"tag": "Veena Maam",
+ "patterns": ["Veena GS"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=13' target='_blank' rel='noopener noreferrer'>Veena Maam</a>"]
+},
+{"tag": "Mallegowda Sir",
+ "patterns": ["Mallegowda M"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=14' target='_blank' rel='noopener noreferrer'>Mallegowda Sir</a>"]
+},
+{"tag": "Chandrika Maam",
+ "patterns": ["Chandrika Prasad"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=16' target='_blank' rel='noopener noreferrer'>Chandrika Maam</a>"]
+},
+{"tag": "Pradeep Sir",
+ "patterns": ["Pradeep Kumar D"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=18' target='_blank' rel='noopener noreferrer'>Pradeep Sir</a>"]
+},
+{"tag": "Ganesh Sir",
+ "patterns": ["Ganeshayya Shidaganti"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=19' target='_blank' rel='noopener noreferrer'>Ganesh Sir</a>"]
+},
+{"tag": "Darshana Maam",
+ "patterns": ["Darshana A Naik"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=20' target='_blank' rel='noopener noreferrer'>Darshana Maam</a>"]
+},
+{"tag": "Jamuna Maam",
+ "patterns": ["Jamuna S Murthy"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=21' target='_blank' rel='noopener noreferrer'>Jamuna Maam</a>"]
+},
+{"tag": "Sushma Maam",
+ "patterns": ["Sushma B"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=22' target='_blank' rel='noopener noreferrer'>Sushma Maam</a>"]
+},
+{"tag": "Nandini Maam",
+ "patterns": ["Nandini SB"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=23' target='_blank' rel='noopener noreferrer'>Nandini Maam</a>"]
+},
+{"tag": "Chetan Sir",
+ "patterns": ["Chetan DS"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=24' target='_blank' rel='noopener noreferrer'>Chetan Sir</a>"]
+},
+{"tag": "Soumya Maam",
+ "patterns": ["Soumya CS"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=25' target='_blank' rel='noopener noreferrer'>Soumya Maam</a>"]
+},
+{"tag": "Manjula Maam",
+ "patterns": ["Manjula L"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=26' target='_blank' rel='noopener noreferrer'>Manjula Maam</a>"]
+},
+{"tag": "Akshata Maam",
+ "patterns": ["Akshata S Bhayyar"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=27' target='_blank' rel='noopener noreferrer'>Akshata Maam</a>"]
+},
+{"tag": "Viswachetan Sir",
+ "patterns": ["Viswachetan D"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=28' target='_blank' rel='noopener noreferrer'>Viswachetan Sir</a>"]
+},
+{"tag": "Mamatha Maam",
+ "patterns": ["Mamatha A"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=29' target='_blank' rel='noopener noreferrer'>Mamatha Maam</a>"]
+},
+{"tag": "Pallavi Maam",
+ "patterns": ["Pallavi N"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=30' target='_blank' rel='noopener noreferrer'>Pallavi Maam</a>"]
+},
+{"tag": "Kamath Maam",
+ "patterns": ["Akshata Kamath"],
+ "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=31' target='_blank' rel='noopener noreferrer'>Kamath Maam</a>"]
+},
+
+
+
+
+
+{"tag": "1styearsyll",
+ "patterns": ["1st year syllabus","first year syllabus","Year 1 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/A-First-Year-Syllabus/UG_First_Year_Syllabus.pdf' target='_blank' rel='noopener noreferrer'>1styearsyll</a>"]
+},
+{"tag": "2ndyearsyll",
+ "patterns": ["2nd year syllabus","second year syllabus","Year 2 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/CSE/Syllabus/UG+2nd+Year+Syllabus.pdf' target='_blank' rel='noopener noreferrer'>2ndyearsyll</a>"]
+},
+{"tag": "3rdyearsyll",
+ "patterns": ["3rd year syllabus","third year syllabus","Year 3 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/CSE/Syllabus/UG+3rd+Year+Syllabus.pdf' target='_blank' rel='noopener noreferrer'>3rdyearsyll</a>"]
+},
+{"tag": "4thyearsyll",
+ "patterns": ["4th year syllabus","fourth year syllabus","Year 4 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/CSE/Syllabus/UG+4th+Year+Syllabus.pdf' target='_blank' rel='noopener noreferrer'>4thyearsyll</a>"]
+},
+{"tag": "pgcsesyll20-22",
+ "patterns": ["pg cse 20-22 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/CSE/Syllabus/PG+CSE.pdf' target='_blank' rel='noopener noreferrer'>pgcsesyll20-22</a>"]
+},
+{"tag": "pgcsesyll21-23",
+ "patterns": ["pg cse 21-23 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3.us-west-2.amazonaws.com/Departments/CSE/Syllabus/PG-CSE-2021-23.pdf' target='_blank' rel='noopener noreferrer'>pgcsesyll21-23</a>"]
+},
+{"tag": "pgcnesyll20-22",
+ "patterns": ["pg cne 20-22 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/CSE/Syllabus/PG+CNE.pdf' target='_blank' rel='noopener noreferrer'>pgcnesyll20-22</a>"]
+},
+{"tag": "pgcsesyll21-23",
+ "patterns": ["pg cne 21-23 syllabus"],
+ "responses": ["<a href='https://msrit-bucket.s3.us-west-2.amazonaws.com/Departments/CSE/Syllabus/PG-CNE-2021-23.pdf' target='_blank' rel='noopener noreferrer'>pgcnesyll21-23</a>"]
+},
+
+
+
+
+{"tag": "exam",
+ "patterns": ["exams","results","Examination results","SEE results","are results announced?","when will results be announced?"],
+ "responses": ["<a href='https://exam.msrit.edu/' target='_blank' rel='noopener noreferrer'>exam</a>"]
+},
+
+
+
+
+{"tag": "Papers",
+ "patterns": ["Previous year Question Papers","Old SEE papers","Old Examination Papers","Previous year SEE Papers"],
+ "responses": ["Previous year QPs are available on the library intranet. Please go to the library to access the papers.<br>Given here is an unofficial link to old question papers<br><a href='https://drive.google.com/drive/folders/1FPZP22gKIv_A-bJbOZR-6jZtiK8hFbnp?usp=share_link' target='_blank' rel='noopener noreferrer'>Papers</a>"]
 }
 ]
 }
