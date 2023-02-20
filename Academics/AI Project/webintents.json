@@ -204,7 +204,7 @@
  "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=6' target='_blank' rel='noopener noreferrer'>TNR Sir</a>"]
 },
 {"tag": "SRR Maam",
- "patterns": ["S Rajarajeshwari"],
+ "patterns": ["S Rajarajeswari"],
  "responses": ["<a href='https://www.msrit.edu/department/faculty-detail.html?dept=cse&ID=7' target='_blank' rel='noopener noreferrer'>SRR Maam</a>"]
 },
 {"tag": "Sangeetha J Maam",
