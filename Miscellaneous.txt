@@ -19,3 +19,7 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Installed PyTesseract OCR tool to read captcha automatically but dropped the plan due to ethical reasons
 - Learnt about Flask Sessions.
 - Tried to build a dockerfile for my Big Data Project
+- Have experimented with matplotlib, plotly, pyqt5, tkinter for producing graphs in web
+- Have experimented with webssh2, shellinabox for producing terminal in a browser
+- Have experimented with script, screen and tmux commands in linux.
+- Created a google site and embedded my chatbot in it.
