@@ -23,3 +23,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Have experimented with webssh2, shellinabox for producing terminal in a browser
 - Have experimented with script, screen and tmux commands in linux.
 - Created a google site and embedded my chatbot in it.
+- Learnt about webworkers, service workers and server sent events in javascript
