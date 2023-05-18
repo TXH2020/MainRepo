@@ -24,3 +24,5 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Have experimented with script, screen and tmux commands in linux.
 - Created a google site and embedded my chatbot in it.
 - Learnt about webworkers, service workers and server sent events in javascript
+- Install Jupyter Notebook and analyzed its architecture. 
+- 'Inspected' Google Colab
