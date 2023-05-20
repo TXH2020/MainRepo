@@ -26,3 +26,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Learnt about webworkers, service workers and server sent events in javascript
 - Install Jupyter Notebook and analyzed its architecture. 
 - 'Inspected' Google Colab
+- Installed openssh server on windows. Tried to build interactive web terminal for windows.
