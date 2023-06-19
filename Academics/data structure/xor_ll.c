@@ -16,8 +16,7 @@ struct Node* XOR (struct Node *a, struct Node *b)
 }
 int c=0;
 // Function to insert a node at given position
-void insert(struct Node** head_ref,int value,  
-int position)
+void insert(struct Node** head_ref,int value,  int position)
 {
     // If list is empty
 	if (*head_ref == NULL)
@@ -26,10 +25,9 @@ int position)
 		if  (position == 1)
 		{
 			// Initialize a new Node
-			struct Node* node =  
-(struct Node*)malloc(sizeof(struct Node));
+			struct Node* node =  (struct Node*)malloc(sizeof(struct Node));
 			// Stores data value in the node
-node->data = value;
+			node->data = value;
 			// Stores XOR of previous and next pointer
 			node->npx = XOR (NULL, NULL);
 			// Update pointer of head_ref node
@@ -76,7 +74,7 @@ struct Node* curr = *head_ref;
 		{
 			// Initialize a new Node
 			 
-struct Node* node = (struct Node*)malloc(sizeof(struct Node));
+			struct Node* node = (struct Node*)malloc(sizeof(struct Node));
 			// Stores pointer to previous Node as  (prev ^ next ^ next) = prev
 			struct Node* temp = XOR(curr->npx, next);
 			// Stores  XOR of prev and new node
