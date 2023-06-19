@@ -224,7 +224,7 @@ int main ()
 	int ch,ele,pos,res,a;
 	while(1)
 	{
-	    printf("1.Enter 1. to insert\n2.Enter 2. to delete\n3.Enter 3. for forward traversal\n4.Enter 4. for backward traversal\nPress any other key to exit\n");
+	    printf("1.Enter 1. to insert\n2.Enter 2. to delete\n3.Enter 3. for forward traversal\n4.Enter 4. for backward traversal\nEnter any other number to exit\n");
 	    printf("Enter your choice\n");
 	    scanf("%d",&ch);
 	    switch(ch)
