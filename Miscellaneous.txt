@@ -28,4 +28,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - 'Inspected' Google Colab
 - Installed openssh server on windows. Tried to build interactive web terminal for windows.
 - Tried to build a model on HuggingFace(requires High RAM). Tried to use Azure DataScienceVM for the model and tried to connect Colab to VM but failed due to SSL certificate error
-- Sat for online assessments of Dover, Tredence Analytics, IBM, Tejas Net, PhonePe, Oracle, RingCentral
+- Sat for online assessments of Dover, Tredence Analytics, IBM, Tejas Net, PhonePe, Oracle, Draup
