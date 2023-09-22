@@ -32,6 +32,11 @@ Course Name
 <td>Jul-Oct 2022</td>
 <td>71</td>
 </tr>
+<tr>
+<td>Deep Learning</td>
+<td>Jan-Apr 2023</td>
+<td>80</td>
+</tr>
 </table>
 <br>
   <p>Have also attended a NPTEL AI Workshop:<b> NPTEL-VuNet Data-Centric AI Masterclass</b></p>
