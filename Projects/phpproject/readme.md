@@ -1,5 +1,3 @@
-Note: Please enter the name of the city, district or state without any spaces.
-
 This is a website that I created in my first year of engineering as part of a project. I now decided to give the website a facelift and deploy it on 
 000webhost.com
 
