@@ -214,7 +214,7 @@
 			<a href="data.php">PRODUCTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="about.html">ABOUT</a>&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="contact.html">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://colab.research.google.com/drive/1cRPSUNIeS1ha82T1o3VXARIxGMSkDMoz?usp=sharing">ANALYTICS</a></span>
+			<a href="https://colab.research.google.com/drive/1cRPSUNIeS1ha82T1o3VXARIxGMSkDMoz?usp=sharing" target='_blank' rel='noopener noreferrer'>ANALYTICS</a></span>
 		</font></div>
 	</h3><br><br>
 
