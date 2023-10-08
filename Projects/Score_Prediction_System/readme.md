@@ -12,4 +12,4 @@ The web app has been deployed on PythonAnywhere.
 
 I had initially made a Colab notebook based on the same topic as part of The Data Science Tasks of The Sparks Foundation Internship . I built this web app so that it looks cooler compared to the Python notebook. The notebook is available in this directory. 
 
-##Update: I applied a change to the webapp to save 189MB of space.
+## Update: I applied a change to the webapp to save 189MB of space.
