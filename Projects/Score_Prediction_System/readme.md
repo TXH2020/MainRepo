@@ -1,4 +1,4 @@
-The Score Prediction System is a Djamgo web-app which uses linear regression to predict the score of a student, based on the no. of hours he/she studies.
+The Score Prediction System is a Django web-app which uses linear regression to predict the score of a student, based on the no. of hours he/she studies.
 For our simplicity we consider a number between 0 and 10. 
 
 The web app accepts an input and processes the input if and only if it is an integer from 0 to 10(included). If an invalid input is given it displays an 
