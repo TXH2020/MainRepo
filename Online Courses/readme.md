@@ -1,6 +1,7 @@
 <html>
 <body>
-<p>These are the main online courses that I have taken till now.</p>
+<p>These are all the online courses that I have taken till now. The below table shows the courses that I took as part of NPTEL Domain Certfication
+in Data Science.</p>
 <br>
 <h2>NPTEL Courses</h2>
 <br>
@@ -28,17 +29,13 @@ Course Name
 <td>60</td>
 </tr>
 <tr>
-<td>Data Structures and Algorithms Using Java</td>
-<td>Jul-Oct 2022</td>
-<td>71</td>
-</tr>
-<tr>
 <td>Deep Learning</td>
 <td>Jan-Apr 2023</td>
 <td>80</td>
 </tr>
 </table>
 <br>
-  <p>Have also attended a NPTEL AI Workshop:<b> NPTEL-VuNet Data-Centric AI Masterclass</b></p>
+  <p>Have also attended a NPTEL AI Workshop:<i> NPTEL-VuNet Data-Centric AI Masterclass</i><br>
+  Also undertook <i>Data Structures and Algorithms Using Java </i>as per college requirements with a score of 71.</p>
 </body>
 </html>
