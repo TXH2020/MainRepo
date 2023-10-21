@@ -34,3 +34,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Ran RPC server and client in Python
 - Installed redis on Linux
 - Successfully installed complete openstack on an Azure VM
+- Successfull installed and used minikube on Kali Linux
