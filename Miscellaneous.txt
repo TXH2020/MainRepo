@@ -32,3 +32,5 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Ran hyperledger fabric and successfully completed test network tutorial.
 - Created a hadoop cluster using Docker on an Azure VM and accessed the web UI for namenode and YARN.
 - Ran RPC server and client in Python
+- Installed redis on Linux
+- Successfully installed complete openstack on an Azure VM
