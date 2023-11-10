@@ -1,0 +1,188 @@
+(Argentina,Amex)	1200
+(Argentina,Product1)	1200
+(Australia,Amex)	2400
+(Australia,Diners)	4800
+(Australia,Mastercard)	21600
+(Australia,Product1)	36000
+(Australia,Product2)	28800
+(Australia,Visa)	36000
+(Austria,Mastercard)	7200
+(Austria,Product1)	7200
+(Austria,Product2)	3600
+(Austria,Visa)	3600
+(Bahrain,Product1)	1200
+(Bahrain,Visa)	1200
+(Belgium,Amex)	2400
+(Belgium,Mastercard)	1200
+(Belgium,Product1)	8400
+(Belgium,Product2)	3600
+(Belgium,Visa)	8400
+(Bermuda,Product1)	1200
+(Bermuda,Visa)	1200
+(Brazil,Amex)	1200
+(Brazil,Mastercard)	9900
+(Brazil,Product1)	4800
+(Brazil,Product3)	7500
+(Brazil,Visa)	1200
+(Bulgaria,Mastercard)	1200
+(Bulgaria,Product1)	1200
+(Canada,Amex)	10800
+(Canada,Diners)	14400
+(Canada,Mastercard)	33600
+(Canada,Product1)	74400
+(Canada,Product2)	50400
+(Canada,Visa)	66000
+(Cayman Isls,Mastercard)	1200
+(Cayman Isls,Product1)	1200
+(China,Product1)	1200
+(China,Visa)	1200
+(Costa Rica,Diners)	1200
+(Costa Rica,Product1)	1200
+(Czech Republic,Product1)	2400
+(Czech Republic,Product2)	3600
+(Czech Republic,Visa)	6000
+(Denmark,Mastercard)	6000
+(Denmark,Product1)	18000
+(Denmark,Visa)	12000
+(Dominican Republic,Diners)	1200
+(Dominican Republic,Product1)	1200
+(Finland,Mastercard)	2400
+(Finland,Product1)	2400
+(France,Amex)	6000
+(France,Diners)	4800
+(France,Mastercard)	9600
+(France,Product1)	24000
+(France,Product2)	21600
+(France,Product3)	7500
+(France,Visa)	32700
+(Germany,Amex)	4800
+(Germany,Diners)	3600
+(Germany,Mastercard)	18000
+(Germany,Product1)	24000
+(Germany,Product2)	18000
+(Germany,Visa)	15600
+(Greece,Product1)	1200
+(Greece,Visa)	1200
+(Guatemala,Product1)	1200
+(Guatemala,Visa)	1200
+(Hong Kong,Mastercard)	1200
+(Hong Kong,Product1)	1200
+(Hungary,Diners)	1200
+(Hungary,Mastercard)	1200
+(Hungary,Product1)	3600
+(Hungary,Visa)	1200
+(Iceland,Product1)	1200
+(Iceland,Visa)	1200
+(India,Amex)	1200
+(India,Diners)	1200
+(India,Product1)	2400
+(Ireland,Diners)	12000
+(Ireland,Mastercard)	17100
+(Ireland,Product1)	55200
+(Ireland,Product2)	7200
+(Ireland,Product3)	7500
+(Ireland,Visa)	40800
+(Israel,Mastercard)	1200
+(Israel,Product1)	1200
+(Italy,Amex)	3600
+(Italy,Diners)	17400
+(Italy,Mastercard)	6000
+(Italy,Product1)	12000
+(Italy,Product2)	10800
+(Italy,Product3)	15000
+(Italy,Visa)	10800
+(Japan,Amex)	1200
+(Japan,Product1)	2400
+(Japan,Visa)	1200
+(Jersey,Diners)	1200
+(Jersey,Product1)	1200
+(Kuwait,Amex)	1200
+(Kuwait,Product1)	1200
+(Latvia,Mastercard)	1200
+(Latvia,Product1)	1200
+(Luxembourg,Product1)	1200
+(Luxembourg,Visa)	1200
+(Malaysia,Mastercard)	1200
+(Malaysia,Product1)	1200
+(Malta,Product1)	1200
+(Malta,Product2)	3600
+(Malta,Visa)	4800
+(Mauritius,Product2)	3600
+(Mauritius,Visa)	3600
+(Moldova,Product1)	1200
+(Moldova,Visa)	1200
+(Monaco,Product1)	2400
+(Monaco,Visa)	2400
+(Netherlands,Amex)	3600
+(Netherlands,Diners)	1200
+(Netherlands,Mastercard)	30300
+(Netherlands,Product1)	19200
+(Netherlands,Product2)	18000
+(Netherlands,Product3)	7500
+(Netherlands,Visa)	9600
+(New Zealand,Product1)	7200
+(New Zealand,Visa)	7200
+(Norway,Diners)	2400
+(Norway,Mastercard)	3600
+(Norway,Product1)	18000
+(Norway,Product2)	3600
+(Norway,Visa)	15600
+(Philippines,Mastercard)	1200
+(Philippines,Product1)	2400
+(Philippines,Visa)	1200
+(Poland,Product1)	2400
+(Poland,Visa)	2400
+(Romania,Mastercard)	1200
+(Romania,Product1)	1200
+(Russia,Amex)	3600
+(Russia,Product2)	3600
+(South Africa,Mastercard)	3600
+(South Africa,Product1)	4800
+(South Africa,Product3)	7500
+(South Africa,Visa)	8700
+(South Korea,Product1)	1200
+(South Korea,Visa)	1200
+(Spain,Amex)	6000
+(Spain,Mastercard)	3600
+(Spain,Product1)	13200
+(Spain,Product2)	3600
+(Spain,Visa)	7200
+(Sweden,Amex)	6000
+(Sweden,Mastercard)	4800
+(Sweden,Product1)	12000
+(Sweden,Product2)	10800
+(Sweden,Visa)	12000
+(Switzerland,Amex)	6000
+(Switzerland,Diners)	1200
+(Switzerland,Mastercard)	27600
+(Switzerland,Product1)	26400
+(Switzerland,Product2)	50400
+(Switzerland,Visa)	42000
+(Thailand,Mastercard)	3600
+(Thailand,Product1)	1200
+(Thailand,Product2)	3600
+(Thailand,Visa)	1200
+(The Bahamas,Product1)	2400
+(The Bahamas,Visa)	2400
+(Turkey,Product1)	7200
+(Turkey,Visa)	7200
+(Ukraine,Product1)	1200
+(Ukraine,Visa)	1200
+(United Arab Emirates,Diners)	1200
+(United Arab Emirates,Product1)	4800
+(United Arab Emirates,Product2)	7200
+(United Arab Emirates,Visa)	10800
+(United Kingdom,Amex)	6000
+(United Kingdom,Diners)	19200
+(United Kingdom,Mastercard)	33600
+(United Kingdom,Product1)	108000
+(United Kingdom,Product2)	36000
+(United Kingdom,Visa)	85200
+(United States,Amex)	121700
+(United States,Diners)	45600
+(United States,Mastercard)	204350
+(United States,Product1)	492000
+(United States,Product2)	198000
+(United States,Product3 )	7500
+(United States,Product3)	52500
+(United States,Visa)	378350
