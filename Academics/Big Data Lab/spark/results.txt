@@ -1,0 +1,8 @@
+Statistics by magnitude:
+[('Aegean Sea', 5.7), ('Alaska Peninsula', 3.1), ('"Andreanof Islands', 2.7), ('Arizona', 3.1), ('Arkansas', 1.8), ('"Arunachal Pradesh', 4.2), ('"Babuyan Islands region', 4.5), ('"Baja California', 2.8), ('"Acme Islands', 8.9), ('"Andaman Islands', 5.0), ('"Antofagasta', 5.1), ('Central Alaska', 1.5)]
+Statistics by depth:
+[('Aegean Sea', 10.3), ('Alaska Peninsula', 201.5), ('"Andreanof Islands', 96.6), ('Arizona', 6.4), ('Arkansas', 2.1), ('"Arunachal Pradesh', 18.1), ('"Babuyan Islands region', 10.0), ('"Baja California', 41.8), ('"Acme Islands', 59.4), ('"Andaman Islands', 34.2), ('"Antofagasta', 115.3), ('Central Alaska', 0.0)]
+Statistics by latitude:
+[('Aegean Sea', 39.7105), ('Alaska Peninsula', 58.8165), ('"Andreanof Islands', 52.1313), ('Arizona', 36.8383), ('Arkansas', 35.8918), ('"Arunachal Pradesh', 28.325), ('"Babuyan Islands region', 19.2215), ('"Baja California', 32.5373), ('"Acme Islands', 51.7622), ('"Andaman Islands', 13.349), ('"Antofagasta', -24.268), ('Central Alaska', 64.9952)]
+Statistics by longitude:
+[('Aegean Sea', 25.6298), ('Alaska Peninsula', -154.6988), ('"Andreanof Islands', -174.3559), ('Arizona', -111.8563), ('Arkansas', -91.9482), ('"Arunachal Pradesh', 94.3088), ('"Babuyan Islands region', 121.2571), ('"Baja California', -115.2127), ('"Acme Islands', -175.8648), ('"Andaman Islands', 92.3832), ('"Antofagasta', -69.522), ('Central Alaska', -147.3775)]
