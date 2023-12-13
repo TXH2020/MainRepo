@@ -34,4 +34,5 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Ran RPC server and client in Python
 - Installed redis on Linux
 - Successfully installed complete openstack on an Azure VM
-- Successfull installed and used minikube on Kali Linux
+- Successfully installed and used minikube on Kali Linux.
+- Opened a pull request 2948 in hyperledger cacti for correcting readme.md typos and got it merged! My first contribution to open source software!
