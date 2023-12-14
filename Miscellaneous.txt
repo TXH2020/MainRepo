@@ -28,7 +28,7 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - 'Inspected' Google Colab
 - Installed openssh server on windows. Tried to build interactive web terminal for windows.
 - Tried to build a model on HuggingFace(requires High RAM). Tried to use Azure DataScienceVM for the model and tried to connect Colab to VM but failed due to SSL certificate error
-- Sat for online assessments of Dover, Tredence Analytics, IBM, Tejas Net, PhonePe, Oracle, Draup
+- Sat for online assessments of Dover, Tredence Analytics, IBM, Tejas Net, PhonePe, Oracle, Draup, UIPath, DeltaX
 - Ran hyperledger fabric and successfully completed test network tutorial.
 - Created a hadoop cluster using Docker on an Azure VM and accessed the web UI for namenode and YARN.
 - Ran RPC server and client in Python
