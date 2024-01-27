@@ -36,3 +36,4 @@ keystone,placement,neutron,nova softwares. Launched horizon dashboard.
 - Successfully installed complete openstack on an Azure VM
 - Successfully installed and used minikube on Kali Linux.
 - Opened a pull request 2948 in hyperledger cacti for correcting readme.md typos and got it merged! My first contribution to open source software!
+- Installed XMing on Windows and ran remote desktop.
