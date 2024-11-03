@@ -1,0 +1,14 @@
+kubectl create namespace tejas
+kubectl create -f k8s-specifications/ --namespace tejas
+kubectl get pods --namespace tejas
+kubectl exec --namespace tejas db-68cc65b8c6-zrm9k -it -c postgres -- /bin/bash
+kubectl get services --namespace tejas
+curl -v -F vote=a 10.102.151.204:5000
+# Repeat connection to postgres container and check votes
+kubectl get deployments --namespace tejas
+kubectl scale --replicas=3 deployment/db --namespace tejas
+# Repeat get deployments
+
+#Postgres container
+psql -U postgres
+select * from votes;
