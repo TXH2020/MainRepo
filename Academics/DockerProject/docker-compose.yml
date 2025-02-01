@@ -1,0 +1,22 @@
+---
+services:
+
+  mysql:
+    image: mysql:latest
+    hostname: mysql
+    container_name: mysql
+    volumes:
+      -  ./:/app
+    working_dir: /app
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: hello1234
+
+  php_app:
+    container_name: php
+    build: .
+    depends_on:
+      - mysql
+    ports:
+      - "8080:80"
